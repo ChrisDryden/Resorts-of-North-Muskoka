@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <style type="text/css">
+  	.main img {
+  		max-width: 100%;
+  	}
+  </style>
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<div class='title'><img src="images/responsive/resorts-title.jpg"></div>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	  <p>
+<a name="top"><span class="titles">To search our partner resorts use the drop down menu below.</span></a><br />
+</p>
+Find A Resort:
+<form name="jump">
+<select name="menu">
+
+                    <option value="#02">Blue Spruce Resort</option>
+					<option value="#03">Bondi Cottage Resort</option>
+					<option value="#04">Cedar Grove Lodge</option>
+					<option value="#05">Clyffe House Cottage Resort</option>
+                    <option value="#06">Colonial Bay</option>
+                     <option value="#09">Lumina Resort</option>
+								<option value="#11">Port Cunnington Lodge &amp; Resort</option>
+                              <option value="#13">Tally Ho Inn</option>
+                    <option value="#14">The Pines Cottage Resort</option>
+</select>
+<input type="button" onClick="location=document.jump.menu.options[document.jump.menu.selectedIndex].value;" value="GO">
+</p>
+</form>
+
+<!-- <font size=-1>
+
+					<form name="gothere" action="./cgi-bin/gothere.cgi" method="get" OnSubmit="gotosite(document.forms[0].url.options[document.forms[0].url.selectedIndex].value);return false">
+					<select name="url" OnChange="gotosite(this.options[this.selectedIndex].value)">
+					<option selected>Find A Resort:
+					<option>
+					<option value="#01">Beauview Cottage Resort</option>
+                    <option value="#02">Blue Spruce Resort</option>
+					<option value="#03">Bondi Cottage Resort</option>
+					<option value="#04">Cedar Grove Lodge</option>
+					<option value="#05">Clyffe House Cottage Resort</option>
+                    <option value="#06">Colonial Bay</option>
+
+                    <option value="#09">Lumina Resort</option>
+					<option value="#10">Norsemen Walker Lake Resort</option>
+					<option value="#11">Port Cunnington Lodge &amp; Resort</option>
+                    <option value="#12">Pow-Wow Point Lodge</option>
+                   <option value="#13">Tally Ho Inn</option>
+                    <option value="#14">The Pines Cottage Resort</option>
+					</select>
+
+					<NOSCRIPT>
+					<input type="submit" value="Go There!">
+					</NOSCRIPT>
+					</form></font><br /> -->
+
+<p>
+<img src="images/places1.jpg" alt="our resorts" align="right" hspace="10" />
+The best thing about resorting in Muskoka is the lifelong memories that are created during your vacation. Whether it's children, grandchildren or significant other, you will look back on your time with us as a fond memory ... memories you can share around the dinner table or at family gatherings many years from now.
+</p>
+
+<p>
+We are a unique member group of privately owned waterfront resorts in the beautiful rugged landscape of north Muskoka and we take your vacation seriously. Our job is to help you create those special memories that you can take home with you after your vacation. All of our resorts offer different venues and activities, but the one thing we have in common, is our goal to make your vacation with us the best ever for you. Each resort has its own character and charm. We are not big brand chain accommodation properties that are impartial to you and your family. We will know you on a first name basis ... and we will do our best to custom tailor your vacation getaway to your needs. Take a look through our group of resort properties and contact those that best match your vacation requirements. We look forward to meeting you soon in North Muskoka. 
+</p>
+<p>You will find a wealth of information on our website to help you plan a fabulous getaway in Muskoka and to select the Muskoka lodge, waterfront resort, inn, or housekeeping cottage resort that best suits your requirements. There is a North Muskoka accommodation property that is just right for you. For family vacations, couples getaways, fishing weekends, resort weddings, and corporate and group events, there is a North Muskoka resort that offers the kind of accommodations, services, amenities and location that you require.  </p>
+<br>
+
+
+<!-- <table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="01">Beauview Cottage Resort</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.beauview.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.beauview.com" class="titles3" target="_blank">www.beauview.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/beauview1.jpg" alt="Beauview" align="right" hspace="10" />Romantic Getaways, Family Vacations, Personal Hot tubs, The Beauview Cottage Resort has a 5 out of 5 rating on Trip Advisor.com.  We are a small, friendly, year round lakeside resort with 6 self catering housekeeping cottages on Lake of Bays in Muskoka.  Algonquin Park is closeby.
+</p>
+<p>
+Beauview is a great choice for a family vacation. Whether it's swimming and boating in the summer time and enjoying time on the lake, or ice fishing and skating on frozen lakes for some winter time fun, there is always something to enjoy with the family.
+</p>
+<p>
+If you are looking to get away with your special someone on the spur of the moment romantic getaway or going on your honeymoon, consider staying at Beauview. We have a deluxe 1 bedroom cottage with personal hottub on the deck that is available for your time away.
+</p>
+<p>
+The cottages all have kitchens, gas fireplaces, air conditioner, 3 or 4 piece bathroom, flat screen TV with satellite service, and wireless internet</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/beauview2.jpg" alt="Beauview" /></td>
+    <td><img src="images/resorts/beauview3.jpg" alt="Beauview" /></td>
+    <td><img src="images/resorts/beauview4.jpg" alt="Beauview" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br /> -->
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="02">Blue Spruce Resort</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bluespruce.ca" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.bluespruce.ca" class="titles3" target="_blank">www.bluespruce.ca</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/blue1.jpg" alt="Blue" align="right" hspace="10" />Blue Spruce Resort is a spectacular fully equipped Cottage Resort and Motel, perfectly at home in nature's domain located in a world, simply, unto itself.
+</p>
+<p>
+The largest fully equipped housekeeping resort on Oxtongue Lake located near the West Gate of Algonquin Park Ontario Canada.
+</p>
+<p>
+Blue Spruce Resort is balanced on the edge of village and forest. It is a realm of infinite welcome and great beauty, where lakeview cottages with wood burning fireplaces embrace the magnificence of nature, and our own cross country skiing and hiking trails wander off into the quiet peaceful woods.
+</p>
+<p>
+This comfortable vacation property borders Muskoka, Haliburton, and Algonquin Park, three of the most sought after vacation areas in Ontario's cottage country.
+</p>
+<p>
+We are an all season, year round retreat that is perfect for a Family Vacation, a Romantic Getaway, or an Adventure Holiday. You will find an abundance of activities to enjoy in and around the lodge, although it's perfectly all right to do nothing at all. Whether you prefer to curl up in front of your wood burning fireplace or take to the lake and paddle a canoe or kayak to Ragged Falls - a wonderful half day adventure- Blue Spruce Resort is sure to please.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/blue2.jpg" alt="Blue" /></td>
+    <td><img src="images/resorts/blue3.jpg" alt="Blue" /></td>
+    <td><img src="images/resorts/blue4.jpg" alt="Blue" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table>
+<br /><br />
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="03">Bondi Cottage Resort</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bondi-cottage-resort.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.bondi-cottage-resort.com" class="titles3" target="_blank">www.bondi-cottage-resort.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/bondi1.jpg" alt="Bondi" align="right" hspace="10" />We are a family oriented housekeeping resort on Lake of Bays, with 13 cottages. Ideal for families, and couples, we are also a great base for Groups, Family Reunions, Girlfriends' Getaways, and Clubs.  All the benefits of a Private Cottage, with the extras of our Resort Facilities included.
+<ul>
+<li>Wifi on site</li>
+<li>widely spaced for privacy</li>
+<li>spacious, fully equipped kitchens</li>
+<li>bedding, bbq, and canoe provided</li>
+<li>1200' sandy private shorefront, water trampoline</li>
+<li>Boat rentals, including kayaks, sups, waterskiing</li>
+<li>picnic, playground areas, 12 hole Frisbee Golf course, games room, basketball court, volleyball, shuffleboard, etc.</li>
+<li>guest laundry</li>
+<li>organic garden</li>
+<li>our own 600 acre wilderness reserve with extensive hiking trails</li>
+<li>in Winter we offer 20 km. of ski/snowshoe trails, toboggan hills, easy connection to snowmobile trails. Step out the cottage door directly onto the trails.</li>
+</ul>     
+</p>
+<p>
+We are located close to many area attractions
+<ul>
+<li>Algonquin Park, Arrowhead Park, Ragged Falls Park</li>
+<li>Golf, Muskoka Heritage Place, Santa's Village, S.S.Bigwin and so much more</li>
+</ul>
+</p>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/bondi2.jpg" alt="Bondi" /></td>
+    <td><img src="images/resorts/bondi3.jpg" alt="Bondi" /></td>
+    <td><img src="images/resorts/bondi4.jpg" alt="Bondi" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br />
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="04">Cedar Grove Lodge</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cedargrove.on.ca" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.cedargrove.on.ca" class="titles3" target="_blank">www.cedargrove.on.ca</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/cedar1.jpg" alt="Cedar" align="right" hspace="10" />Cedar Grove offers Individual lakeside cabins with wood burning stone fireplaces. All rates and packages include 3 meals per day served in our centrally located dining room. Experience a traditional resort escape in a family owned, relaxed atmosphere.
+</p>
+<p>
+Some of the activities you may enjoy during your stay include:
+<ul>
+<li>Free use of all non motorized boats including canoes, paddleboats, rowboats and more.</li>
+<li>Pontoon boat lake tours.</li>
+<li>Waterskiing and tubing. (July and August)</li>
+<li>2 tennis courts.</li>
+<li>Hiking on site or in nearby Algonquin Park.</li>
+<li>Fishing on Peninsula Lake.</li>
+<li>In winter, skate on the lake, cross country ski and snowshoe.</li>
+</ul>
+</p>
+<p>
+Since 1927 guests have been calling Cedar Grove their 'home away from home'.<br />Please visit our website for photos, rates and more information on how you can start a new tradition.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/cedar2.jpg" alt="Cedar" /></td>
+    <td><img src="images/resorts/cedar3.jpg" alt="Cedar" /></td>
+    <td><img src="images/resorts/cedar4.jpg" alt="Cedar" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br />
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="05">Clyffe House Cottage Resort</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.clyffehouse.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.clyffehouse.com" class="titles3" target="_blank">www.clyffehouse.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/clyffe1.jpg" alt="Norsemen" align="right" hspace="10" />The Clyffe House offers family vacations. We have the perfect place for kids of all ages. Our shallow sand beach is ideal for young children.  For older kids we have tennis, badminton, kayaking, sailing, waterskiing, tubing, windsurfing and canoeing. The whole family can participate in beach volleyball, soccer, marshmallow roasts and  scavenger hunts.
+</p>
+<p>
+Parents know their children are safe . The   cottages are set  back from the water in our private valley. The kids   can usually find playmates their own age for games and outdoor activities. Parents appreciate our large,  cottages.  Our kitchens are fully equipped  often with  dishwashers. Our motto is "Whatever you need, please, just ask. Nobody beats our package prices! Our low rates include firewood, propane, 20 free boats, trail maps for our 100 acres, and more. In spring and fall, we cater to reunions, retreats and triathlon training.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/clyffe2.jpg" alt="clyffe" /></td>
+    <td><img src="images/resorts/clyffe3.jpg" alt="clyffe" /></td>
+    <td><img src="images/resorts/clyffe4.jpg" alt="clyffe" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br />
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="06">Colonial Bay</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.colonialbay.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.colonialbay.com" class="titles3" target="_blank">www.colonialbay.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/colonial1.jpg" alt="Colonial" align="right" hspace="10" />Cottage Resort located on Peninsula Lake between the Town of Huntsville and the Village of Dwight. 30 KM West of Algonquin Park and 2.5 hours from Toronto. Enjoy our quiet family cottage experience where playing in the sand pile and at the lake with family and friends is more important than having your day all planned out. You'll find staying at Colonial Bay very relaxing and unpretentious.
+</p>
+<p>
+Our cottages are fully equipped with modern appliances, new beds and full bathrooms. We always include all bedding and pillows - it just makes less for you to pack. Cottage decor ranges between traditional and deluxe and most accommodation has decks and gas BBQ's. Our kitchens may not be large but we supply everything you will need including the sink!! Our Deluxe cottages are air conditioned, have gas fireplaces and flat screen satellite television. Open year-round.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/colonial2.jpg" alt="Colonial" /></td>
+    <td><img src="images/resorts/colonial3.jpg" alt="Colonial" /></td>
+    <td><img src="images/resorts/colonial4.jpg" alt="Colonial" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br />
+
+
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="09">Lumina Resort</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.luminaresort.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.luminaresort.com" class="titles3" target="_blank">www.luminaresort.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/lumina1.jpg" alt="Lumina" align="right" hspace="10" />Lumina Resort is situated on the sparkling blue waters of Lake of Bays. There are 36 cottages, rangeing in size from one to five bedrooms. You can also choose a room in the main lodge if you prefer. Your rate includes breakfast and dinner. We have a patio which serves lunch daily or you have  a bar fridge in your room to keep snacks. There is a nice  sand beach but also an outdoor pool. The kids can participate in the Children's Program which runs twice a day.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/lumina2.jpg" alt="Lumina" /></td>
+    <td><img src="images/resorts/lumina3.jpg" alt="Lumina" /></td>
+    <td><img src="images/resorts/lumina4.jpg" alt="Lumina" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br />
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="11">Port Cunnington Lodge and Resort</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.portcunnington.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.portcunnington.com" class="titles3" target="_blank">www.portcunnington.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/port1.jpg" alt="Port" align="right" hspace="10" />Port Cunnington Lodge and Resort, located in the heart of Lake of Bays has been welcoming guests for well over a century.  Family owned and operated to provide the best in Muskoka hospitality. Relax in one of our many multi bedroom family sized cottages or enjoy a more intimate getaway in a one or two bedroom suites/ cottages.
+</p>
+<p>
+We  offer many activities to choose from including,  Tennis, volleyball, canoes, kayaks, paddleboards , water trampolines, slides, Basketball, games room, fitness room and family activities just to name a few. Whether you choose to fill your day with activity or just relax and enjoy the peaceful surroundings, Port Cunnington Lodge is committed to providing you with a true Muskoka experience.  Enjoy amazing cuisine with our meal package offered by our Chef de cuisine Eric Gagnon. Dine in our historic Main lodge building overlooking the pristine waters of Lake of Bays.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/port2.jpg" alt="Port" /></td>
+    <td><img src="images/resorts/port3.jpg" alt="Port" /></td>
+    <td><img src="images/resorts/port4.jpg" alt="Port" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br />
+
+
+<!-- <table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="12">Pow-Wow Point Lodge</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.powwowpointlodge.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.powwowpointlodge.com" class="titles3" target="_blank">www.powwowpointlodge.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/powwow1.jpg" alt="Powwow" align="right" hspace="10" />A traditional cottage experience, Pow-Wow offers 1500 feet of lakefront on beautiful Peninsula Lake in Muskoka. Thirty five acres of open and wooded scenery offers a tranquil setting. We invite you to spend your days enjoying fun lakeside resort activities or simply relaxing in front of the fireplace in your private cottage.
+</p>
+<p>
+Catering to families, couples &amp; active seniors, we've got something for everyone.<br />
+Relaxed, Friendly, Carefree</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/powwow2.jpg" alt="Powwow" /></td>
+    <td><img src="images/resorts/powwow3.jpg" alt="Powwow" /></td>
+    <td><img src="images/resorts/powwow4.jpg" alt="Powwow" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br /> -->
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="13">Tally Ho Inn</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.tallyhoinn.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.tallyhoinn.com" class="titles3" target="_blank">www.tallyhoinn.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/tally1.jpg" alt="Tally" align="right" hspace="10" />Tally Ho Inn is a welcoming Muskoka cottage resort that is family and pet friendly. Located on the shores of Peninsula lake just outside of Huntsville and minutes from Algonquin Park, Tally Ho Inn offers you the perfect Muskoka getaway. With 1300 feet of shoreline and cottages ranging from one room suites, to 3 bedroom cottages with or without full kitchens, we have a little something for everyone. Have a pet? Don't worry, we are a pet friendly resort and welcome your furry family members. All our units have a microwave, coffee maker, fridge, and satellite TV. The main lodge offers the opportunity to play pool, air hockey, play piano on a baby grand, or relax in front of the fire place. During the summer our guests have access to play tennis, basketball, volleyball or shuffleboard. They also have access to fun waterfront activities such canoeing, kayaking, row boating or paddle boarding free of charge.
+</p>
+<p>
+Whether you're looking to sit back, relax and reconnect with your family or looking for some adventure, there is something for everyone. Tally Ho is ideally located close to trails for hiking, horseback riding, tree top trekking, ATVing, cross country skiing, downhill skiing, snowmobiling, dog sledding, as well as golf courses for every skill level. The resort also welcomes groups, weddings and reunions. Every season offers its own appeal to the whole family.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/tally2.jpg" alt="Tally" /></td>
+    <td><img src="images/resorts/tally3.jpg" alt="Tally" /></td>
+    <td><img src="images/resorts/tally4.jpg" alt="Tally" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table><br /><br />
+
+
+<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ece6d4">
+<tr bgcolor="#004e6d"><td class="titles2"><a name="14">The Pines Cottage Resort</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.algonquinparkaccommodations.com" class="titles3" target="_blank"><img src="images/view-button.png" border="0" valign="bottom" alt="view resort" /></a></td><td align="right"><a href="http://www.algonquinparkaccommodations.com" class="titles3" target="_blank">www.algonquinparkaccommodations.com</a></td></tr>
+<tr><td valign="top" colspan="2"><p><img src="images/resorts/pines1.jpg" alt="Pines" align="right" hspace="10" />The Pines Cottage Resort is a small enclave of fully equipped housekeeping cottages on a plateau overlooking a large, safe, sandy beach on Oxtongue Lake complete with anchored inflatable water toys.  All cottages at the Pines will have been outfitted with updated beds, furniture, wood or laminate floors, linens, towels and kitchen equipment. Also provided for your convenience are picnic tables, patio furniture, BBQ, cleaning brush, ash tray, canoes, kayaks, paddleboats, lifejackets, bail buckets and paddles.  Enjoy the social interaction of the community fire each evening.
+</p>
+<p>
+Our proximity to Algonquin Park means your stay at The Pines can be as active or as relaxing as you would like it. Take in all that Algonquin Park has to offer.  Nature trails in this area and in the Park, Algonquin's world class Visitor's Centre, the Algonquin Park Logging Museum, the Algonquin Art Gallery combine to allow you to make your stay at The Pines truly memorable.
+</p>
+<p>
+The Pines Cottage Resort has a long standing reputation for its friendly atmosphere. Over the years guests have made friendships with other guests which extend to socializing with each other throughout the entire year. The Pines Cottage Resort is associated with Camp Tanamakoon for girls and Bartlett Lodge, a Modified American Plan Resort.  Spend an evening of fine dining at the Pines sister resort Bartlett Lodge.  Both of these businesses are located in the heart of Algonquin Park and have been operated by the Kim and Marilyn Smith for over 12 years. The Smiths' experience in the resort industry and their knowledge of the local area means The Pines Cottage Resort was build on its already strong reputation as a quiet friendly retreat on the doorstep of Algonquin Park.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td>&nbsp;</td>
+    <td><img src="images/resorts/pines2.jpg" alt="Pines" /></td>
+    <td><img src="images/resorts/pines3.jpg" alt="Pines" /></td>
+    <td><img src="images/resorts/pines4.jpg" alt="Pines" /></td>
+  </tr>
+</table><br />
+</td></tr>
+<tr><td colspan="2"><a href="#top" class="grey">Back to top</a><br /><br /><img src="./images/blue_spacer.gif" border="0" class='blue-spacer' height="1"><br /></td></tr>
+</table>
+
+ </div>
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script type="text/javascript">
+// Copyright 2006-2007 javascript-array.com
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+// open hidden layer
+
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose;
+
+function gotosite(site) {
+        if (site != "") {
+            if (site.substring(0, 4) == "http") {
+                top.document.location = site;
+            } else {
+                self.location = site;
+            }
+        }
+    }
+	 
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21397698-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

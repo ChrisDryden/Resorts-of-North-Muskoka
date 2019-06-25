@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!--#include file="head.htm"-->
+	<style type="text/css">
+		.directions, .resorts {
+			display: inline-block;
+			width: calc(50% - 5px);
+			vertical-align: top;
+		}
+
+		.directions img, .directions iframe {
+			width: 100%;
+		}
+
+		blockquote {
+			width: 300px;
+			font-style: italic;
+			padding: 10px;
+			background-color: rgba(255,255,255,0.5);
+		}
+
+		.imgR, .imgL {
+			border: 1px solid #BCB49C;
+		}
+
+		@media (max-width: 850px) {
+			.directions, .resorts {
+				display: block;
+				width: 100%;
+				text-align: center;
+			}
+
+			table {
+				width: 100%;
+			}
+
+			.directions img {
+				max-width: 400px;
+			}
+		}
+
+	</style>
+</head>
+<body>
+	<div class='wrapper'>
+		<header>
+			<!--#include file="nav1.htm"-->
+			<!--#include file="slideshow.htm"-->
+			<!--#include file="nav2.htm"-->
+		</header>
+		<div class='title'><img src="images/responsive/winterfun-title.jpg"><a href="resorts.shtml"><img src="images/resort-view-button.png" width="200" height="30" alt="view resorts" border="0" align="right" /></a></div>
+		<div class='main'>
+			<!-- MAIN CONTENT ===================================================== -->
+
+			<span class='titles'>Winter memories, made in North Muskoka</span>
+
+						<div class='share-bar'>
+		<span class='st_facebook_large' st_url="http://north-muskoka.com/winter_fun.shtml" displayText='Facebook'></span>
+      <span class='st_twitter_large' st_url="http://north-muskoka.com/winter_fun.shtml" displayText='Tweet'></span>
+      <span class='st_pinterest_large' st_url="http://north-muskoka.com/winter_fun.shtml" displayText='Pinterest'></span>
+      <span class='st_googleplus_large' st_url="http://north-muskoka.com/winter_fun.shtml" displayText='Google +'></span>
+      <span class='st_email_large' st_url="http://north-muskoka.com/winter_fun.shtml" displayText='Email'></span>
+      <script type="text/javascript">var switchTo5x=true;</script>
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+      </div>
+
+			<img src="images/skiing.jpg" alt='skiing' class='imgR'>
+
+			<p>There’s no question that summer in North Muskoka is fun. It’s the stuff of life-long memories. But great memories aren’t just made on the beach – the best ones come from great times with great people. And summer doesn’t have a monopoly on those!</p>
+
+			<span class='titles'>The ingredients for creating great winter memories</span>
+
+			<p>First you need an amazing backdrop. The stunning landscape of North Muskoka in winter with its vast expanses of frozen lakes and hushed forest trails is the perfect place to start. Next, add a cozy home-away-from-home – <a href="http://north-muskoka.com/resorts.shtml">North Muskoka accommodations</a> include an abundance of welcoming, family-owned cottage resorts that feel more like a visit to a favourite relative than a hotel. Bring along some people you like – your family or good friends. Anyone you want to reconnect with and share a great experience. And then start having fun!</p>
+
+			<blockquote class='imgR'>"...welcoming, family-owned cottage resorts that feel more like a visit to a favourite relative than a hotel."</blockquote>
+
+			<p>The possibilities for outdoor winter fun in North Muskoka are endless. From spontaneous snow games to traditional outdoor winter sports like snowshoeing, skating and cross-country skiing, you’ll never be bored in North Muskoka. And most North Muskoka cottage resorts have a variety of activities on site which means that you don’t even have to move your car to get to them. These are some our favourite ways to spend a winter day with family and friends in North Muskoka:</p>
+
+			<img src="images/fireplace.jpg" class='imgL'>
+
+			<p><strong>Play in the snow.</strong> Because, really, what’s not to love about snow? It’s the ultimate play material – you can slide on it, mold it, throw it, pack it down and build it up. Build a snowman or a snow fort. Play a game of snowball tag. Slide down it on a toboggan. Or make snow angels.</p>
+
+			<p><strong>Go snowshoeing in the forest.</strong> It’s a remarkably different experience than a summer hike. Listen to the snow crunching underfoot. Look for animal tracks and try to decipher who made them. Watch the birds flit from tree to tree. Bring along a thermos of hot chocolate or soup and find a quiet place to just sit and marvel at the wonder of nature.</p>
+
+			<p><strong>Go skating or cross-country skiing on a frozen lake.</strong> Some North Muskoka cottage resorts have rinks or trails already cleared and groomed so that all you have to do is strap on your gear and go.</p>
+
+			<p>And the fun doesn’t stop when the sun goes down. <strong>Head out on a crisp winter night for some stargazing.</strong> Because when was the last time you saw the stars? Really saw them in all their glory, untainted by city lights? They are brighter and seemingly infinite when viewed in the dark. While you’re out there, listen to the trees cracking in the cold as you relax next to a toasty bonfire.</p>
+
+			<p>And when you’re done, <Strong>head inside to a warm meal, hot drinks or games shared next to a cozy fire.</strong> There’s nothing quite like the comforts of home. And when you can find those comforts after a day spent exploring winter’s wonders in North Muskoka, it’s even better. So go on, make some winter memories this year, North Muskoka-style.</p>
+
+			<div style='clear:both'></div>
+
+			<!--#include file="bottom_banner_ads.htm"-->
+
+			<!-- END MAIN CONTENT ===================================================== -->
+		</div>
+		<!--#include file="footer.htm"-->
+		<script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>

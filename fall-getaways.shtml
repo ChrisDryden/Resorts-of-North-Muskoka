@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<h1 class='pagetitle'>Romantic Fall Getaway</h1>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	  	<img src="images/shore_kayaks.jpg" class='imgC'>
+
+	  			<div class='share-bar'>
+		<span class='st_facebook_large' st_url="http://north-muskoka.com/fall-getaways.shtml" displayText='Facebook'></span>
+			<span class='st_twitter_large' st_url="http://north-muskoka.com/fall-getaways.shtml" displayText='Tweet'></span>
+			<span class='st_pinterest_large' st_url="http://north-muskoka.com/fall-getaways.shtml" displayText='Pinterest'></span>
+			<span class='st_googleplus_large' st_url="http://north-muskoka.com/fall-getaways.shtml" displayText='Google +'></span>
+			<span class='st_email_large' st_url="http://north-muskoka.com/fall-getaways.shtml" displayText='Email'></span>
+			<script type="text/javascript">var switchTo5x=true;</script>
+			<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+			</div>
+
+		<p>Forget Valentine&rsquo;s Day. Fall is the most romantic time to visit North Muskoka. Imagine this: you and your sweetheart, drinks in hand, snuggled in beside a crackling fire in a <a href="http://www.north-muskoka.com/places.shtml">cozy cottage</a> on a crisp fall evening. Sounds nice, right? It gets better.</p>
+
+		<img src="images/road_bikes.jpg" class='imgR' style='max-width:300px;'>
+
+		<p>Fall is when North Muskoka scenery pulls out all the stops. Dazzling red, orange and golden hues adorn the sweeping expanses of forests. It&rsquo;s the perfect time to go for a drive, just the two of you, to see the sights. On the <a href="http://discovermuskoka.ca/directories/1272-unforgettable_shorelines_lake_of_bays_circle_tour.html">Lake of Bays Circle Tour</a> you can stop in the villages of Dwight, Dorset and Baysville for <a href="http://www.henriettaspinebakery.net/">tasty treats</a>, a <a href="http://www.lakeofbaysbrewing.ca/">local brew</a> or <a href="http://oxtonguecraftcabin.com/">charming shops featuring local artisans</a>. Or pack a picnic lunch and head to a nearby lookout like the <a href="http://www.algonquinhighlands.ca/?cat=recreation&amp;subPage=lookout_tower">Dorset Lookout Tower</a>, Huntsville&rsquo;s <a href="http://www.huntsville.ca/en/living/trails.asp">Lions Lookout</a> or Algonquin Park&rsquo;s <a href="http://www.algonquinpark.on.ca/visit/recreational_activites/track-and-tower-trail.php">Track and Tower Trail</a> and enjoy the stunning view.</p>
+
+		<p>It&rsquo;s also an ideal time to visit one of North Muskoka&rsquo;s many waterfalls, like the pretty <a href="http://www.ontariotrails.on.ca/trails/view/oxtongue-rapids-trail">Oxtongue Rapids</a> or the spectacular <a href="http://www.ontarioparks.com/park/oxtongueriverraggedfalls">Ragged Falls</a> on the edge of Algonquin Park.</p>
+
+		<img src="images/couple_forest.jpg" class='imgL' style='max-width:300px;'>
+
+		<p>In fall, the days are still warm enough for hiking, biking or paddling. Visit <a href="http://www.algonquinpark.on.ca/">Algonquin Park</a>, <a href="http://www.ontarioparks.com/park/arrowhead">Arrowhead Provincial Park</a> or the <a href="http://limberlostforest.com/">Limberlost Forest Reserve</a> and listen to the leaves crunching underfoot or glide across a still, smooth lake in a canoe. Or simply walk out the door of your cottage and explore the trails and lakeshore at your cottage resort.</p>
+
+		<p>But who says you have to go anywhere? Stay close to your home-away-from-home and have a relaxing soak in a hot tub built for two or request a mobile spa treatment for both of you.</p>
+
+		<img src="images/horses.jpg" class='imgR' style='max-width:300px;'>
+
+		<p>Warm fall days eventually slide into cool nights. When evening arrives, make your sweetheart a romantic dinner for two in your self-catering cottage or have a romantic evening out in your cottage resort&rsquo;s dining room, where available, or at a nearby restaurant. For casual elegance try <a href="http://www.portevino.com/">Portevino Wine Bar</a><!--  in Dwight, the <a href="http://www.norsemen-walkerlake.com/dining.shtml">Norsemen Restaurant</a> --> or <a href="http://www.spencerstalltrees.com/">Spencer&rsquo;s Tall Trees Restaurant</a> in Huntsville. For a more relaxed date, <a href="http://www.muskokaontherocks.ca/">Muskoka on the Rocks</a> or <a href="http://www.onthedockspub.com/">On the Docks Pub</a> are local favourites.</p>
+
+		<p>When you&rsquo;ve had your fill, return &lsquo;home&rsquo; and cuddle under a blanket with a warm drink for some stargazing. In North Muskoka, there are no bright street lights to interfere with views of the thousands of twinkling stars up there. (Have you ever seen the Milky Way? You can here!) In October, watch for the Draconid and Orionid meteor showers to fill the sky. Don&rsquo;t forget to make a wish!</p>
+
+		<p>Then head back inside to that crackling fire and, well, you know&hellip;</p>
+		<p>Make North Muskoka your destination for your next romantic getaway. You&rsquo;re going to love it!</p>
+
+		<div style='clear:both;'></div>
+		<!--#include file="bottom_banner_ads.htm"-->
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script type="text/javascript" src='banner_ads.js'></script>
+</body>
+</html>

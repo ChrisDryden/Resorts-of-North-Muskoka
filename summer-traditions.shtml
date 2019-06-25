@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<h1 class='pagetitle'>Summer is all about Traditions</h1>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	  	<img src="images/lifejacket_lineup.jpg" class='imgC'>
+
+	  			<div class='share-bar'>
+					<span class='st_facebook_large' st_url="http://north-muskoka.com/summer-traditions.shtml" displayText='Facebook'></span>
+      <span class='st_twitter_large' st_url="http://north-muskoka.com/summer-traditions.shtml" displayText='Tweet'></span>
+      <span class='st_pinterest_large' st_url="http://north-muskoka.com/summer-traditions.shtml" displayText='Pinterest'></span>
+      <span class='st_googleplus_large' st_url="http://north-muskoka.com/summer-traditions.shtml" displayText='Google +'></span>
+      <span class='st_email_large' st_url="http://north-muskoka.com/summer-traditions.shtml" displayText='Email'></span>
+      <script type="text/javascript">var switchTo5x=true;</script>
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+      </div>
+
+	  	<img src="images/kidsprog1.jpg" class='imgR' style='max-width:300px;'>
+
+		<p>North Muskoka: Where your next tradition awaits</p>
+
+		<p>How do you choose where to vacation? With a world full of destinations, it isn&rsquo;t easy to decide where to spend your precious vacation time. And with a world full of choices, it would have to be a pretty magical place for you to return to it again and again, year after year. North Muskoka is such a place.</p>
+		
+		<p>It&rsquo;s a place where family traditions take root like a sturdy maple and become as deeply embedded as the granite of the Canadian Shield.</p>
+		
+		<p>It starts simply enough. Maybe you read about North Muskoka online. Maybe a co-worker recommends a great little <a href="places.shtml">cottage resort</a> that they stay at every year. So you come to North Muskoka with your family and you have a great time. When your time is up, the kids don&rsquo;t want to go home and neither do you, if you&rsquo;re being honest. And you say, <em>That was fun. Let&rsquo;s do it again next year</em>.</p>
+
+		<img src="images/fishing_sunset.jpg" class='imgL' style='max-width:300px;'>
+		
+		<p>So you rent the same cottage the next year so that you can enjoy the same gorgeous view of the lake. On your first night back you make grandma&rsquo;s it-would-be-world-famous-if-more-people-knew-about-it mac &lsquo;n&rsquo; cheese, just like you did last year. The next day you pack a lunch for the family and take them by canoe over to that island for a picnic, just like you did last year. And, pretty soon, traditions have formed where there were none before.</p>
+		
+		<p>While you&rsquo;re busy building those traditions, the family staying in the next cottage are creating some, too. <em>Hey</em>, you think, <em>weren&rsquo;t they here last year? Maybe we should go and say hello</em>.</p>
+
+		<img src="images/kid_sweater.jpg" class='imgL' style='max-width:300px;'>
+		
+		<p>Traditions evolve from the comfort and familiarity of sameness. The same cottage. The same view of the lake. The same dock where you taught your daughter how to dive. The same fire pit where you met the Johnsons for the first time and shared your marshmallows because they forgot to bring some. The same fire pit where you now meet them every year and marvel over how big the kids are getting.</p>
+		
+		<p>What is it about North Muskoka that enables these traditions within generations of families? Is it something in the water? The air? The trees? Yes, yes and yes again. Because in and around that water, that air and those trees are the building blocks for experiences. And within those experiences lie the seeds of tradition.</p>
+		
+		<p>Picture yourself in North Muskoka, now and in the future. It&rsquo;s where traditions are made and cherished by generations. Where your next tradition awaits.</p>
+
+		<div style='clear:both;'></div>
+		<!--#include file="bottom_banner_ads.htm"-->
+
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>

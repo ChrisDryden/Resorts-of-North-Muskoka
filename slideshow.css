@@ -1,0 +1,40 @@
+.slideshow {
+	position: relative;
+	width: 100%;
+}
+
+.blank_slide {
+	width: 100%;
+}
+
+.slide {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.arrow {
+	position: absolute;
+	z-index: 20;
+	top: calc(50% - 25px);
+	cursor: pointer;
+	opacity: 0.9;
+}
+
+.arrow:hover {
+	opacity: 1;
+}
+
+.right-arrow {
+	right: 10px;
+	-ms-transform: rotate(190deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
+
+.left-arrow {
+	left: 10px;
+}

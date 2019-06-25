@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<h1 class='pagetitle'>Golf in Muskoka</h1>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	  	<img src="images/golf_arial.jpg" class='imgC'>
+
+	  			<div class='share-bar'>
+		<span class='st_facebook_large' st_url="http://north-muskoka.com/golf-in-muskoka.shtml" displayText='Facebook'></span>
+			<span class='st_twitter_large' st_url="http://north-muskoka.com/golf-in-muskoka.shtml" displayText='Tweet'></span>
+			<span class='st_pinterest_large' st_url="http://north-muskoka.com/golf-in-muskoka.shtml" displayText='Pinterest'></span>
+			<span class='st_googleplus_large' st_url="http://north-muskoka.com/golf-in-muskoka.shtml" displayText='Google +'></span>
+			<span class='st_email_large' st_url="http://north-muskoka.com/golf-in-muskoka.shtml" displayText='Email'></span>
+			<script type="text/javascript">var switchTo5x=true;</script>
+			<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+			</div>
+
+		<p><strong>Tee up some world-class golf in North Muskoka</strong></p>
+
+		<p>North Muskoka&rsquo;s beauty has always caught the eye of outdoor enthusiasts, golf course designers among them. Thanks to their vision, North Muskoka is home to some of the most scenic courses in the world. Seemingly carved out of granite, the region&rsquo;s open links hug the landscape, curve around sparkling lakes and are lined with stately forests. Beautiful at any time of year, the courses are particularly stunning when fall colours are at their peak.</p>
+
+		<p>At these local courses you&rsquo;ll find both challenging layouts for the more serious golfer and easier links for casual players and families:</p>
+
+		<img src="images/golf_fairway.jpg" class='imgL'>
+
+		<p>The spectacular <a href="http://www.bigwinisland.com/">Bigwin Island Golf Club</a> lies on an island in Lake of Bays. Stunning vistas surround the course on all sides. As with much of North Muskoka, the course and island it inhabits have a long history. In 1922, Stanley Thompson carved out the first 9 holes of the original Bigwin Island Golf Course, with the back 9 following by 1930. The course fell into disrepair after the golden era of the big resorts ended, but was revived by world renowned golf course architect Doug Carrick. The club is available for public play only during the spring and fall.</p>
+
+		<p><a href="http://www.huntsvilledowns.com/">Huntsville Downs</a> is an historic club also originally designed by Stanley Thompson. The original 9-hole course opened in 1925 and was expanded to 18 holes in 1992. It&rsquo;s an affordable, family-friendly course that is suitable for all skill levels.</p>
+
+		<p><a href="http://grandview.clublink.ca/">Grandview Golf Club</a> east of Huntsville was co-designed by PGA Masters and British Open champion Mark O&rsquo;Meara. It&rsquo;s a challenging course with many elevation changes that also provide gorgeous views of Fairy Lake.</p>
+
+		<img src="images/golf_green.jpg" class='imgR'>
+
+		<p><a href="http://www.deerhurstresort.com/golf-muskoka-ontario.htm">Deerhurst Highlands and Deerhurst Lakeside</a> east of Huntsville provide different levels of play in one place. Deerhurst Highlands is a scenic, challenging, par 72 course that winds its way through forest and granite cliffs. Deerhurst Lakeside is a compact par 64 course that follows the shore of Peninsula Lake and the Deerhurst Canal. It&rsquo;s suitable for more advanced players who want a quick round or novices and families who can benefit from the shorter distance.</p>
+
+		<p><a href="http://www.northgraniteridge.com/">North Granite Ridge</a> is tucked away in the hills near Port Sydney and is considered a hidden gem of North Muskoka. It&rsquo;s suitable for players of all skill levels.</p>
+
+		<p>Just want to get out and practice your swing? <a href="https://www.facebook.com/pages/The-Acres-Driving-Range/363508890385567">The Acres Driving Range</a> just east of Huntsville offers an affordable place to just hit a few or to warm up for your game.</p>
+		
+		<p>It&rsquo;s easy to <a href="http://www.north-muskoka.com/resorts.shtml">stay and play</a> at the Resorts of North Muskoka. With these world-class courses just a short drive away, you can play as much or as little as you want to.</p>
+
+		<img src="images/golf_clubhouse.jpg" class='imgC'>
+
+		<div style='clear:both;'></div>
+
+		<!--#include file="bottom_banner_ads.htm"-->
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>

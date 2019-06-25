@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <style type="text/css">
+  	td {
+		padding-top: 0;
+		padding-bottom: 0;
+		border-bottom: 1px solid #000066;
+	}
+
+  </style>
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<div class='title'><img src="images/responsive/todo-title.jpg"></div>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+<p><a name="top">
+No</a> matter what time of year you visit, there is so much to do in North Muskoka and many exciting <a href="http://huntsvilleadventures.com/" class="links" target="_blank">events</a> that take place throughout the year. Rich in history and culture, North Muskoka is a popular year-round outdoor playground for young and old alike. A very special Ontario getaway destination that offers something for everyone, a North Muskoka vacation is sure to provide lasting memories of fun times, interesting sites and unique experiences.
+</p>
+
+<a href="resorts.shtml"><img src="images/resort-view-button.png" alt="view resorts" border="0" align="right" /></a>
+
+<font size=-1>
+
+	<form name="gothere" action="./cgi-bin/gothere.cgi" method="get" OnSubmit="gotosite(document.forms[0].url.options[document.forms[0].url.selectedIndex].value);return false">
+	<select name="url" OnChange="gotosite(this.options[this.selectedIndex].value)">
+	<option selected>Find Something To Do:
+	<option>
+	<option value="#01">Attractions and Entertainment</option>
+    <option value="#02">Local Arts and Culture</option>
+	<option value="#03">The Great Outdoors</option>
+	<option value="#04">Golf</option>
+	<option value="#05">Water Activities</option>
+    <option value="#06">Fun for Kids</option>
+    <option value="#07">Dining Out</option>
+    <option value="#08">Shopping</option>
+	</select>
+
+	<NOSCRIPT>
+	<input type="submit" value="Go There!">
+	</NOSCRIPT>
+	</form></font><br />
+
+<p>
+<img src="images/attractions/falls.jpg" alt="Oxtongue Rapids" align="right" hspace="10" />
+<span class="titles"><a name="01">North Muskoka Attractions and Entertainment</a></span><br />
+It can never be said that there is nothing to do in North Muskoka. With such a wide variety of interesting local attractions and entertainment options, your biggest problem when vacationing here will be deciding what to do next. For families with children, a trip to Santa's Village in Bracebridge is sure to please. For the history buff, a visit to the Bethune Memorial House, Muskoka Heritage Place and Pioneer Museum, the Muskoka Rails Museum or the Lake of Bays Marine Museum and SS Bigwin would be entertaining and educational. As well, there are a number of wonderful area boat tours, nature trails and scenic lookouts, shops, and so much more. 
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Park</b></td><td valign="top" class="table2">(888) 668 - 7275</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Bethune Memorial House National Historic Site</b></td><td valign="top" class="table2">(705) 687 - 4261</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Bracebridge Antique Show</b></td><td valign="top" class="table2">(705) 764 - 0939</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Castaway Cruises</b></td><td valign="top" class="table2">(705) 684 - 9297</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Dorset Tower</b></td><td valign="top" class="table2">no phone</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Hidden Valley Highlands Ski Area</b></td><td valign="top" class="table2">(800) 398 - 9555</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Lakes of Muskoka Cottage Brewery</b></td><td valign="top" class="table2">(800) 881 - 4229</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Lady Muskoka Cruises</b></td><td valign="top" class="table2">(800) 263 - 5239</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Lake of Bays Boat Tours</b></td><td valign="top" class="table2">(866) 408 - 7495</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Wildlife Centre</b></td><td valign="top" class="table2">(705) 689 - 0222</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Trading Post</b></td><td valign="top" class="table2">(877) 756 - 8787</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Rails Museum</b></td><td valign="top" class="table2">(705) 646 - 9711</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Heritage Place</b></td><td valign="top" class="table2">(705) 789 - 7576</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Steamships</b></td><td valign="top" class="table2">(705) 687 - 6667</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Oxtongue Rapids</b></td><td valign="top" class="table2">no phone</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Ragged Falls Park</b></td><td valign="top" class="table2">no phone</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Ride About Stables</b></td><td valign="top" class="table2">(705) 645 - 9997</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Robinson's General Store</b></td><td valign="top" class="table2">(705) 766-  2415</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Rosey's Trail Rides</b></td><td valign="top" class="table2">(705) 788 - 7433</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Santa's Village</b></td><td valign="top" class="table2">(705) 645 - 2512</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a><br /><br />
+
+<p>
+<span class="titles"><a name="02">Local Arts and Culture</a></span><br />
+<img src="images/attractions/thanksgiving.jpg" alt="thanks giving" align="right" hspace="10" />
+Visitors to North Muskoka will be struck by the sheer number of local art studios, theatres and galleries located here. With its breathtaking natural beauty, is it any wonder that North Muskoka is home to so many artists and artisans inspired by their surroundings to create exceptional and unique works of art. Art and culture is celebrated here, so be sure to visit  North Muskoka's museums, live concert and theatre productions, galleries and take part in the many festivals  that take place throughout the year.
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Art Centre</b></td><td valign="top" class="table2">(800) 863 - 0066</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Theatre</b></td><td valign="top" class="table2">(705) 789 - 4975</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Artisans of Muskoka</b></td><td valign="top" class="table2">(705) 789 - 2748</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Arts Council of Muskoka</b></td><td valign="top" class="table2">(705) 646 - 9511</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Back Country Studio - Donna deVries</b></td><td valign="top" class="table2">(705) 788 - 9592</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Bala's Museum of Lucy Maude Montgomery</b></td><td valign="top" class="table2">(888) 579 - 7739</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Big Art Thing - Muskoka's Summer Art Studio</b></td><td valign="top" class="table2">(705) 646 - 1367</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Bramblewood Studio</b></td><td valign="top" class="table2">(705) 689 - 0664</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Christine Marshall Wildlife Gallery &amp; Studio</b></td><td valign="top" class="table2">(705) 762 - 6622</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Dotti Potts Pottery</b></td><td valign="top" class="table2">(705) 385 - 4053</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Gravenhurst Opera House</b></td><td valign="top" class="table2">(888) 495 - 8888</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Generations Antiques</b></td><td valign="top" class="table2">(705) 684 - 9113</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>John Murden Art Gallery &amp; Studio</b></td><td valign="top" class="table2">(877) 687 - 3367</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Lindgren Pottery</b></td><td valign="top" class="table2">(705) 789 - 2843</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Autumn Studio Tour</b></td><td valign="top" class="table2">(705) 385 - 0690</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Boat &amp; Heritage Centre</b></td><td valign="top" class="table2">(866) 687 - 6667</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Heritage Place</b></td><td valign="top" class="table2">(705) 789 - 7576</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Rails Museum</b></td><td valign="top" class="table2">(705) 646 - 9711</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Oxtongue Craft Gallery</b></td><td valign="top" class="table2">(705) 635 - 2951</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Paul Bennett Photography</b></td><td valign="top" class="table2">(705) 769 - 1517</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Richard Robinson</b></td><td valign="top" class="table2">(705) 767 - 3000</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Summer Art School in Muskoka</b></td><td valign="top" class="table2">(705) 646 - 2300</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Theatre Muskoka</b></td><td valign="top" class="table2">(888) 929 - 0299</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Old Palmer House</b></td><td valign="top" class="table2">(705) 635 - 9376</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a><br /><br />
+
+<p>
+<span class="titles"><a name="03">The Great Outdoors</a></span><br />
+<img src="images/attractions/moose.jpg" alt="bull moose" align="right" hspace="10" />
+North Muskoka is all about enjoying the great outdoors. A respite from the crowds and noise of the city, time spent in North Muskoka, where the air is fresh and the water is clean, can be rejuvenating for both body and soul.  North Muskoka is indeed a special place, full of natural beauty that can be enjoyed in many ways; by sitting quietly by the lake or by hiking through the forest.  Our many lakes and vast wilderness are ideal for sportsmen and nature lovers alike. Our many trails, including those in Arrowhead and Algonquin Parks, allow visitors to explore the magnificent landscape and the wild life that lives here.  Here in North Muskoka, you can enjoy all manner of water sports; canoeing, kayaking, waterskiing, swimming. We have excellent fishing and hunting and we have a variety of challenging golf courses. Depending on the season, you can mountain bike, ski, hike, snowmobile, atv, horseback ride, snowshoe, or simply relax and enjoy the beautiful surroundings.
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Outfitters</b></td><td valign="top" class="table2">(705) 635 - 2243</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Park</b></td><td valign="top" class="table2">(888) 668 - 7275</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Captain Action Charters</b></td><td valign="top" class="table2">(705) 789 - 3126</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Dream Catcher Guide Services</b></td><td valign="top" class="table2">(800) 853 - 7782</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>ERA Tours - Off Road Hummer Adventure</b></td><td valign="top" class="table2">(800) 461 - 4393</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Haliburton Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 754 - 2198</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Langford Canoe</b></td><td valign="top" class="table2">(800) 337 - 1006</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Limberlost Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 635 - 1584</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Golf Airways</b></td><td valign="top" class="table2">(877) 495 - 3300</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Outfitters</b></td><td valign="top" class="table2">(705) 646 - 0492</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Toy Rentals</b></td><td valign="top" class="table2">(705) 687 - 1400</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Portage Store</b></td><td valign="top" class="table2">(705) 633 - 5622</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Ride About Stables</b></td><td valign="top" class="table2">(705) 645 - 9997</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Rosey's Trail Rides</b></td><td valign="top" class="table2">(705) 788 - 7433</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Scuba Shack</b></td><td valign="top" class="table2">(705) 687 - 5879</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a><br /><br />
+
+<p>
+<span class="titles"><a name="04">Golf</a></span><br />
+<img src="images/attractions/golf.jpg" alt="bigwin island golf" align="right" hspace="10" />
+A very popular Ontario golf vacation destination, North Muskoka has over a dozen golf courses, including economical courses for families and beginners, challenging championship courses that test the skills of even the most experienced golfer, and golf courses for every skill level in between. North Muskoka's rugged landscape, carved out of the Canadian Shield creates a spectacular backdrop for a golf experience like no other. Whether you choose to golf at one of our world-class, award-winning golf courses, like Taboo, The Rock, and Bigwin Island, or enjoy a quick and casual nine holes at a nearby par 3, you will find golfing in North Muskoka to be a unique and pleasurable experience.
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Trails Driving Range</b></td><td valign="top" class="table2">(877) 266 - 4912</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Bigwin Island Golf Club</b></td><td valign="top" class="table2">(800) 840 - 4036</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Deerhurst Resort</b></td><td valign="top" class="table2">(800) 461 - 4393</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Delta Grandview</b></td><td valign="top" class="table2">(877) 472 - 6388</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Delta Rocky Crest</b></td><td valign="top" class="table2">(800) 263 - 5763</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Diamond In The Rough</b></td><td valign="top" class="table2">(705) 385 - 2222</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Hawkridge Golf &amp; Country Club</b></td><td valign="top" class="table2">(888) 462 - 4295</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Huntsville Downs</b></td><td valign="top" class="table2">(705) 789 - 1000</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Highlands</b></td><td valign="top" class="table2">(800) 465 - 9533</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Golf Airways</b></td><td valign="top" class="table2">(877) 495 - 3300</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>North Granite Ridge</b></td><td valign="top" class="table2">(866) 385 - 0808</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Sunnylea Golf Course</b></td><td valign="top" class="table2">(705) 538 - 2812</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Taboo Resort Golf</b></td><td valign="top" class="table2">(800) 461 - 0236</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Rock</b></td><td valign="top" class="table2">(866) 765 - 7625</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Whispering Pines Golf Course</b></td><td valign="top" class="table2">(705) 789 - 4559</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Windemere Golf &amp; Country Club</b></td><td valign="top" class="table2">(888) 464 - 4414</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a><br /><br />
+
+<p>
+<span class="titles"><a name="05">Water Activities</a></span><br />
+<img src="images/attractions/skiing.jpg" alt="water skiing" align="right" hspace="10" /> 
+Muskoka is synonymous with Ontario lake country. Here, we are blessed with many beautiful lakes, rivers and thousands of kilometres of shoreline. In large part, our magnificent waterways and the enjoyment they provide are what make North Muskoka the popular vacation destination that it is. On the Lake of Bays, Peninsula Lake, and on our many smaller lakes, visitors indulge in all types of water-based activities, such as swimming, canoeing, kayaking, wakeboarding, waterskiing, fishing, power boating and  more. A variety of marine services, including fishing charters, power boat rentals and guided boat tours are also available.
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Outfitters</b></td><td valign="top" class="table2">(705) 635 - 2243</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Baysville Marine</b></td><td valign="top" class="table2">(705) 767 - 3323</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Blackbird Boats</b></td><td valign="top" class="table2">(705) 787 -1983</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Captain Action Charters</b></td><td valign="top" class="table2">(705) 789 - 3126</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Castaway Cruises</b></td><td valign="top" class="table2">(705) 684 - 9296</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Dream Catcher Guide Services</b></td><td valign="top" class="table2">(800) 853 - 7782</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Fred Brown Marine</b></td><td valign="top" class="table2">(705) 635 - 2284</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Haystack Bay Marine</b></td><td valign="top" class="table2">(705) 635 - 2241</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Huntsville Marine</b></td><td valign="top" class="table2">(888) 295 - 0972</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Lake of Bays Boat Tours</b></td><td valign="top" class="table2">(866) 408 - 7495</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Langford Canoe</b></td><td valign="top" class="table2">(800) 337 - 1006</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Mobile Marine</b></td><td valign="top" class="table2">(705) 789 - 3932</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Boat and Heritage Centre</b></td><td valign="top" class="table2">(866) 687 - 6667</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Outfitters</b></td><td valign="top" class="table2">(705) 646 - 0492</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Toy Rentals</b></td><td valign="top" class="table2">(705) 687 - 1400</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Steamships</b></td><td valign="top" class="table2">(705) 687 - 6667</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Wharf</b></td><td valign="top" class="table2">(705) 687 - 3412</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Peacock Bay Marine</b></td><td valign="top" class="table2">(705) 789 - 3755</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Port Cunnington Marina</b></td><td valign="top" class="table2">(705) 635 - 2758</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Portage Store</b></td><td valign="top" class="table2">(705) 633 - 5622</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Pride of Lake of Bays Marine</b></td><td valign="top" class="table2">(877) 228 - 2297</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Scuba Shack</b></td><td valign="top" class="table2">(705) 687 - 5879</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>South Portage Marine</b></td><td valign="top" class="table2">(705) 635 - 2440</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Surf Paradise</b></td><td valign="top" class="table2">(705) 788 - 2848</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Swift Canoe and Kayak</b></td><td valign="top" class="table2">(800) 661 - 1429</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Tower Hill Marine</b></td><td valign="top" class="table2">(705) 766 - 2201</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Webster's Beacon</b></td><td valign="top" class="table2">(705) 635 - 9671</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a><br /><br />
+
+<p>
+<span class="titles"><a name="06">Fun for Kids</a></span><br />
+<img src="images/attractions/kids.jpg" alt="fun for kids" align="right" hspace="10" />
+Families on vacation in North Muskoka will find a wealth of fun things to do that will keep the kids happy and entertained. During the summer months, many of our resorts offer supervised children's programs or organized activities for children and their families to participate in. Many North Muskoka accommodation properties have extensive children's play grounds, in addition to the many other onsite recreational amenities. While vacationing in Muskoka, families can make day trips to visit interesting local attractions and educational exhibits at area museums. And what child would not want to pay a visit to Santa's Village to see Santa Claus.
+</p>
+
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Hidden Valley Highlands Ski Area</b></td><td valign="top" class="table2">(800) 398 - 9555</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Heritage Place</b></td><td valign="top" class="table2">(705) 789 - 7576</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Wildlife Centre</b></td><td valign="top" class="table2">(705) 689 - 0222</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Rock Ridge Recreational Park</b></td><td valign="top" class="table2">(705) 788 - 7275</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Santa's Village</b></td><td valign="top" class="table2">(705) 645 - 2512</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Clothes Closet</b></td><td valign="top" class="table2">(705) 789 - 7529</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Nutty Chocolatier</b></td><td valign="top" class="table2">(705) 788 - 0986</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a><br /><br />
+
+<p>
+<span class="titles"><a name="07">Dining Out</a></span><br />
+<img src="images/attractions/food.jpg" alt="dining out" align="right" hspace="10" />
+In North Muskoka you will discover there is no shortage of places to dine out. No matter what your preference, North Muskoka has great selection of restaurants to suit all tastes and budgets. Here you will find elegant, fine dining establishments for a romantic candlelight dinner for two, fun waterfront eateries and pubs that offer a good time and, perhaps, some light entertainment, as well as fast food restaurants, coffee houses, tearooms and everything else in-between.
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Bigwin Island Golf Club</b></td><td valign="top" class="table2">(800) 840-4036</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Coffee Cabin</b></td><td valign="top" class="table2">(705) 788-1717</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Danny &amp; Dina's Justa Pasta</b></td><td valign="top" class="table2">(705) 384-5542</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>East Side Mario's</b></td><td valign="top" class="table2">(705) 788-9887</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Family Restaurant &amp; Pizza</b></td><td valign="top" class="table2">(705) 789-5602</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Kentucky Fried Chicken</b></td><td valign="top" class="table2">(705) 789-1241</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>King's Buffet</b></td><td valign="top" class="table2">(705) 787-1551</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>La Dolce Vita</b></td><td valign="top" class="table2">(705) 787-0662</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Little Caesar's Pizza</b></td><td valign="top" class="table2">(705) 789-6666</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Louis Two</b></td><td valign="top" class="table2">(705) 789-5704</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Moose Delaney's Sports Grill</b></td><td valign="top" class="table2">(705) 787-1025</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka on the Rocks Pub</b></td><td valign="top" class="table2">(705) 635-1328</td><td class="table2">&nbsp;</td></tr>
+
+<!-- <tr><td valign="top" class="table2"><b>Norsemen Restaurant</b></td><td valign="top" class="table2">(800) 565-3856</td><td class="table2">&nbsp;</td></tr> -->
+
+<tr><td valign="top" class="table2"><b>Old Station Restaurant</b></td><td valign="top" class="table2">(877) 645-9776</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Port Cunnington Lodge</b></td><td valign="top" class="table2">(705) 635-2505</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Riverwalk and Club One</b></td><td valign="top" class="table2">(705) 646-0711</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Seven Main</b></td><td valign="top" class="table2">(705) 789-9592</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Swiss Chalet</b></td><td valign="top" class="table2">(705) 787-0919</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Tall Trees Restaurant</b></td><td valign="top" class="table2">(705) 789-9769</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Bean</b></td><td valign="top" class="table2">(705) 788-0909</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Cookhouse</b></td><td valign="top" class="table2">(705) 635-1709</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Cottage Bar and Grill</b></td><td valign="top" class="table2">(705) 789-6842</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Mill on Main</b></td><td valign="top" class="table2">(705) 788-5150</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Moose Cafe</b></td><td valign="top" class="table2">(705) 635-9639</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>That Little Place By The Lights</b></td><td valign="top" class="table2">(705) 789-2536</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Tim Horton's</b></td><td valign="top" class="table2">(705) 787-0946</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>3 Guys and a Stove</b></td><td valign="top" class="table2">(705) 789-1815</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Westside Fish and Chips</b></td><td valign="top" class="table2">(705) 789-7200</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a><br /><br />
+
+<p>
+<span class="titles"><a name="08">Shopping</a></span><br />
+<img src="images/attractions/shop.jpg" alt="antique shop rosseau" align="right" hspace="10" />
+While vacationing in Muskoka, spend a little time to explore some of the many wonderful shops in our area. The main street in historic downtown Huntsville, has all the retail stores, shops and services you may require while on holiday in Muskoka. Here you will also find gift shops to find the perfect souvenir, antique stores, eclectic boutiques, and arts and craft shops featuring the work of local artisans. Even the small villages of Dorset, Dwight and Baysville offer a fun shopping experience with a few very unique specialty stores and gift shops that warrant a quick look see, as well as Canada's number #1 country general store.
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Outfitters</b></td><td valign="top" class="table2">(705) 635 - 2243</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Algonquin Art Centre</b></td><td valign="top" class="table2">(705) 863 - 0066</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Artisans of Muskoka</b></td><td valign="top" class="table2">(705) 789 - 2748</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Baysville General Store</b></td><td valign="top" class="table2">(705) 767 - 3459</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Christmas Tyme</b></td><td valign="top" class="table2">(705) 789 - 4345</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Dwight Market</b></td><td valign="top" class="table2">(705) 635 - 2551</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Dwight Trading Post</b></td><td valign="top" class="table2">(705) 635 - 1055</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Henrietta's Pine Bakery</b></td><td valign="top" class="table2">(705) 635 - 2214</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Miss Nelles Antiques</b></td><td valign="top" class="table2">(705) 767 - 2181</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Country Furniture &amp; Gifts</b></td><td valign="top" class="table2">(705) 789 - 8241</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Outfitters</b></td><td valign="top" class="table2">(705) 646 - 0492</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Muskoka Trading Post</b></td><td valign="top" class="table2">(877) 756 - 8787</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Old Palmer House</b></td><td valign="top" class="table2">(705) 635 - 9376</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Oxtongue Craft Cabin and Gallery</b></td><td valign="top" class="table2">(705) 635 - 1602</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Painted Porch Trading Co</b></td><td valign="top" class="table2">(705) 789 - 1445</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Robinson's General Store</b></td><td valign="top" class="table2">(705) 766 - 2415</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>The Framing Place and Gallery</b></td><td valign="top" class="table2">(705) 789 - 3205</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Treasures and Treats</b></td><td valign="top" class="table2">(705) 767 - 3800</td><td class="table2">&nbsp;</td></tr>
+
+<tr><td valign="top" class="table2"><b>Veranda</b></td><td valign="top" class="table2">(705) 787 - 1448</td><td class="table2">&nbsp;</td></tr>
+</table><br />
+<a href="#top" class="grey">Back to top</a>
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+<script type="text/javascript">
+// Copyright 2006-2007 javascript-array.com
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+// open hidden layer
+
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose;
+
+function gotosite(site) {
+        if (site != "") {
+            if (site.substring(0, 4) == "http") {
+                top.document.location = site;
+            } else {
+                self.location = site;
+            }
+        }
+    }
+	 
+</script>
+</body>
+</html>

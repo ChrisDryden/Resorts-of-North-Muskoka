@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <style type="text/css">
+  	.main img {
+  		max-width: calc(100% - 20px);
+  	}
+
+  	.blue-spacer {
+		width: 100%;
+		height: 1px;
+	}
+
+	.table2 {
+		color: #000000;
+	}
+
+	td {
+		padding-top: 0;
+		padding-bottom: 0;
+		border-bottom: 1px solid #000066;
+	}
+
+  </style>
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<div class='title'><img src="images/responsive/seasons-title.jpg"></div>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+<p>
+<a href="resorts.shtml"><img src="images/resort-view-button.png" width="200" height="30" alt="view resorts" border="0" align="right" /></a>
+<a name="top"><span class="titles">To search seasonal activities use the drop down menu below.</span></a><br />
+</p>
+
+<font size=-1>
+
+					<form name="gothere" action="./cgi-bin/gothere.cgi" method="get" OnSubmit="gotosite(document.forms[0].url.options[document.forms[0].url.selectedIndex].value);return false">
+					<select name="url" OnChange="gotosite(this.options[this.selectedIndex].value)">
+					<option selected>Choose your Season:
+					<option>
+					<option value="#01">Spring</option>
+                    <option value="#02">Summer</option>
+					<option value="#03">Fall</option>
+					<option value="#04">Winter</option>
+					</select>
+
+					<NOSCRIPT>
+					<input type="submit" value="Go There!">
+					</NOSCRIPT>
+					</form></font><br />
+
+<span class="titles"><a name="01">SPRING</a></span>
+
+<p>
+<img src="images/spring1.jpg" alt="pond hockey" align="right" hspace="10" />
+There is nothing that warms the heart like the oncoming of spring. Warm sunny days with snow melting, rivers rushing and green shoots beginning to emerge. Spring is a great time of year in North Muskoka for wildlife observation. It is common to see White Tail Deer, Moose and Bears along the side of roads looking for salt run off from the winter road salting. The birds are nesting and songbirds are at their peak as they re-establish their territories. In local ponds you will see beaver tirelessly gathering green wood and repairing and building dams. Wild rabbits scurry about looking for a mate and the loons return to the lakes. Bald Eagles and various species or Owls can often be observed this time of year. One of the best ways to observe wild life like Otters, Mink, Martins and Muskrats is along the shore by canoe. If your quite and paddle softly you can get quiet close to pause and watch them busily going about their business getting fattened up after a long winter.
+</p>
+
+<p>
+Spring is a great time for a hike or a bike ride either from your host resort or over at nearby Algonquin Provincial Park. The Golf courses in the area begin to open up before the May 24th weekend and there is no waiting to tee off. Many of our resort members offer packages at very attractive rates that include outdoor activities in the spring.
+</p>
+
+<p>For fishing enthusiasts, a pre-summer getaway at a North Muskoka resort provides the perfect opportunity to partake in some of the best fishing that Ontario cottage country has to offer. The lakes of Muskoka have many different species of fish, including walleye, northern pike, muskie, small and large mouth bass, and of course, lake trout. In the spring, lake trout can be easy to catch as they swim closer to the surface than they do at other times of the year. Beat the summer crowds and enjoy a spring fishing retreat at any one of our lakefront Muskoka resorts.</p>
+
+<p>
+For Spring events and festivals click <a href="http://huntsvilleadventures.com/cultural-events/spring-cultural-events/" target="_blank" class="links">HERE</a>
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+				<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Outfitters</b></td><td valign="top" class="table2">(705) 635 - 2243</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Park</b></td><td valign="top" class="table2">(888) 668 - 7275</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Captain Action Charters</b></td><td valign="top" class="table2">(705) 789 - 3126</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Dream Catcher Guide Services</b></td><td valign="top" class="table2">(800) 853 - 7782</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>ERA Tours - Off Road Hummer Adventure</b></td><td valign="top" class="table2">(800) 461 - 4393</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Haliburton Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 754 - 2198</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Langford Canoe</b></td><td valign="top" class="table2">(800) 337 - 1006</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Limberlost Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 635 - 1584</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Golf Airways</b></td><td valign="top" class="table2">(877) 495 - 3300</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Outfitters</b></td><td valign="top" class="table2">(705) 646 - 0492</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Toy Rentals</b></td><td valign="top" class="table2">(705) 687 - 1400</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Portage Store</b></td><td valign="top" class="table2">(705) 633 - 5622</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Ride About Stables</b></td><td valign="top" class="table2">(705) 645 - 9997</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Rosey's Trail Rides</b></td><td valign="top" class="table2">(705) 788 - 7433</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Scuba Shack</b></td><td valign="top" class="table2">(705) 687 - 5879</td><td class="table2">&nbsp;</td></tr>
+				</table>
+                <br />
+
+<p>Read some <a href="spring-stories.shtml">stories</a> about Spring in North Muskoka.</p>
+
+<a href="#top" class="grey">Back to top</a>
+<br /><br /><br />
+
+<span class="titles"><a name="02">SUMMER</a></span>
+
+<p>
+<img src="images/summer1.jpg" alt="summer in muskoka" align="right" hspace="10" />
+North Muskoka is a happening place in the summer. Tourists come north to the rugged Muskoka landscape to escape the sizzling pavement and hectic city pressures to relax by the lake and enjoy the crystal clear waters. Local attractions, golf courses, community events, church suppers, live theatre and concerts are all in full swing. Great hiking and bicycling too ... but for most, the big attraction is the resort sand beaches and getting into the water to cool of on a hot summer day. Most of our resorts have all the water toys you’ll need for a great time including swim rafts, water trampolines, canoes, kayaks and paddle boats. Some resorts offer fishing packages, motor boat rentals and water skiing/tubing rides for the kids.
+</p>
+
+<p>
+Summer can be a busy time in Muskoka and it is also peak season for Algonquin Provincial Park. It is always best to book ahead to avoid disappointment. Some particular activities like Algonquin Park Wolf Howls and Haliburton Forest Walk In The Clouds Treetop Canopy Tour do book up ahead of time so plan to reserve in advance of your vacation timeslot. Make your host resort booking early to secure the best available lodging and ask your resort host at that time which events and attractions they would recommend based on the activity interest of your family.
+</p>
+
+<p>
+Summer is also a great time for dining out. There are many fine dining restaurants in North Muskoka and of course some of our resort members offer onsite dining as well. Nothing like a cold glass of Chardonnay on the resort deck overlooking the lake to relax and wind down from the stresses of work and the bustle of city life.
+</p>
+
+<p>
+For Summer events and festivals click <a href="http://huntsvilleadventures.com/cultural-events/summer-cultural-events/" target="_blank" class="links">HERE</a>
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+				<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Outfitters</b></td><td valign="top" class="table2">(705) 635 - 2243</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Park</b></td><td valign="top" class="table2">(888) 668 - 7275</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Captain Action Charters</b></td><td valign="top" class="table2">(705) 789 - 3126</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Dream Catcher Guide Services</b></td><td valign="top" class="table2">(800) 853 - 7782</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>ERA Tours - Off Road Hummer Adventure</b></td><td valign="top" class="table2">(800) 461 - 4393</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Haliburton Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 754 - 2198</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Langford Canoe</b></td><td valign="top" class="table2">(800) 337 - 1006</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Limberlost Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 635 - 1584</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Golf Airways</b></td><td valign="top" class="table2">(877) 495 - 3300</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Outfitters</b></td><td valign="top" class="table2">(705) 646 - 0492</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Toy Rentals</b></td><td valign="top" class="table2">(705) 687 - 1400</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Portage Store</b></td><td valign="top" class="table2">(705) 633 - 5622</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Ride About Stables</b></td><td valign="top" class="table2">(705) 645 - 9997</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Rosey's Trail Rides</b></td><td valign="top" class="table2">(705) 788 - 7433</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Scuba Shack</b></td><td valign="top" class="table2">(705) 687 - 5879</td><td class="table2">&nbsp;</td></tr>
+				</table>
+
+<p>Read some <a href="summer-stories.shtml">stories</a> about Summer in North Muskoka.</p>
+
+<br />
+<a href="#top" class="grey">Back to top</a>
+<br /><br /><br />
+
+
+<span class="titles"><a name="03">FALL</a></span>
+
+<p>
+<img src="images/fall1.jpg" alt="fall colours" align="right" hspace="10" />
+Fall is a great time to take in the last of the warm weather before Muskoka gets blanketed with snow. The kids are back to school and North Muskoka is the perfect location for a romantic getaway. The fall colours in Muskoka are spectacular. The mornings are crisp and bug free and the afternoons usually warm up perfectly for hiking, canoeing or a round of golf.
+</p>
+
+<p>
+The North Muskoka area borders Algonquin Provincial Park and there are an number of interruptive centres with displays. The Algonquin Park Visitor Centre has world class exhibits on the Park's natural and human history, a on site restaurant and a excellent bookstore featuring Park history and biology. A theatre presentation sums up the Park story and then the entire back wall opens up and takes you out to the viewing deck from where you can observe a full elevated panorama of the natural Algonquin landscape. This view alone is worth the visit to Algonquin Park and there is no better vantage point for the fabulous fall colours.
+</p>
+
+<p>
+The nearby Dorset Fire Tower is also an excellent vantage point for fall colour viewers albeit it is a big a work to climb the tower. Another great way to take in the fall colours is by canoe or kayak and most of our member resorts offer complimentary canoes for you to explore the lake.
+</p>
+
+<p>
+Hiking trails are everywhere in the area and many resorts have trails available to their guests right from their property. Longer well marked day trip trails are also available in Algonquin Park. It's also a great time of year to bike down some of our scenic back country roads. Our member resorts would be happy to help you plan a bike route and in some cases can pack a picnic lunch for you to stop along the way.
+</p>
+
+<p>
+Fall is a great vacation season to consider for several reasons. For one, the rates are lower in the fall so you can get some great package deals and in the fall season the crowds are gone ... a great time to wind down and reflect and leave the worries and hustle bustle of the city behind. Attractions in the area for the most part are open until Thanksgiving weekend and you won't find line ups as you would at some during the peak summer months. Local gift and souvenir stores tend to put things on sale in the fall and the proprietors actually have the time and enjoy having shoppers drop in to chat.
+</p>
+
+<p>
+For Fall events and festivals click <a href="http://huntsvilleadventures.com/cultural-events/fall-cultural-events/" target="_blank" class="links">HERE</a>
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0" >
+				<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Outfitters</b></td><td valign="top" class="table2">(705) 635 - 2243</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Park</b></td><td valign="top" class="table2">(888) 668 - 7275</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Captain Action Charters</b></td><td valign="top" class="table2">(705) 789 - 3126</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Dream Catcher Guide Services</b></td><td valign="top" class="table2">(800) 853 - 7782</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>ERA Tours - Off Road Hummer Adventure</b></td><td valign="top" class="table2">(800) 461 - 4393</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Haliburton Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 754 - 2198</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Langford Canoe</b></td><td valign="top" class="table2">(800) 337 - 1006</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Limberlost Forest &amp; Wildlife Reserve</b></td><td valign="top" class="table2">(705) 635 - 1584</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Golf Airways</b></td><td valign="top" class="table2">(877) 495 - 3300</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Outfitters</b></td><td valign="top" class="table2">(705) 646 - 0492</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Toy Rentals</b></td><td valign="top" class="table2">(705) 687 - 1400</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Portage Store</b></td><td valign="top" class="table2">(705) 633 - 5622</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Ride About Stables</b></td><td valign="top" class="table2">(705) 645 - 9997</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Rosey's Trail Rides</b></td><td valign="top" class="table2">(705) 788 - 7433</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Scuba Shack</b></td><td valign="top" class="table2">(705) 687 - 5879</td><td class="table2">&nbsp;</td></tr>
+				</table>
+
+<p>Read some <a href="fall-stories.shtml">stories</a> about Fall in North Muskoka.</p>
+
+<br />
+<a href="#top" class="grey">Back to top</a>
+<br /><br /><br />
+
+
+<span class="titles"><a name="04">WINTER</a></span>
+
+<p>
+<img src="images/winter1.jpg" alt="pond hockey" align="right" hspace="10" />
+Looking for a place to play in the snow with beautiful surroundings and easy to get to. Then North Muskoka has it all. Bring the family snowshoeing, tubing, skating, downhill or cross country skiing, even dog sledding. Or, if you prefer, try your hand at snowmobiling on the extensive trail system that winds throughout Muskoka. In the evening, it's time to curl up by a roaring fire with a nice cup of hot cocoa. Enjoy a true Canadian experience.
+</p>
+
+<p>
+For Winter events and festivals click <a href="http://huntsvilleadventures.com/cultural-events/winter-cultural/" target="_blank" class="links">HERE</a>
+</p>
+
+<table cellpadding="0" cellspacing="0" border="0">
+				<tr><td class="bullets2">Name</td><td class="bullets2">Contact</td><td class="bullets"><!--Details--></td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Outfitters</b></td><td valign="top" class="table2">(705) 635 - 2243</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Algonquin Park</b></td><td valign="top" class="table2">(613) 637 - 2780</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Arrowhead Park</b></td><td valign="top" class="table2">(705) 789 - 5105</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Back of Beyond Equine Ctr</b></td><td valign="top" class="table2">(705) 789 - 1605</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Hidden Valley Highlands Ski Area</b></td><td valign="top" class="table2">(800) 398 - 9555</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>HSR Snowmobile Rentals</b></td><td valign="top" class="table2">(705) 754 - 3667</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Outfitters</b></td><td valign="top" class="table2">(705) 646 - 0492</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Muskoka Snowmobile Region</b></td><td valign="top" class="table2">(800) 328 - 7245</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Rockridge Recreation Park</b></td><td valign="top" class="table2">(705) 788 - 7275</td><td class="table2">&nbsp;</td></tr>
+				
+				<tr><td valign="top" class="table2"><b>Winterdance Dogsled Tours</b></td><td valign="top" class="table2">(705) 457 - 5281</td><td class="table2">&nbsp;</td></tr>
+				</table>
+
+<p>Read some <a href="winter-stories.shtml">stories</a> about Winter in North Muskoka.</p>
+
+<br />
+<a href="#top" class="grey">Back to top</a>
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script type="text/javascript">
+// Copyright 2006-2007 javascript-array.com
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+// open hidden layer
+
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+
+function gotosite(site) {
+        if (site != "") {
+            if (site.substring(0, 4) == "http") {
+                top.document.location = site;
+            } else {
+                self.location = site;
+            }
+        }
+    }
+
+</script>
+</body>
+</html>

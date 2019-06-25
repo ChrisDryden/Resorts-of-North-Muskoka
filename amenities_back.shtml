@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <meta name="viewport" content="width=980, user-scalable=yes">
+  <style type="text/css">
+ 	.table2 { font-size: 12px; line-height: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;} 
+	.table {font-size: 14px; text-decoration: none; font-style:normal; line-height: 18px; color: #660000; font-family: Verdana, Arial, Helvetica, sans-serif;}
+	.table3 {font-weight: bold; font-size: 10px; text-align: center; line-height: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;}
+	.table4 {font-size: 10px; line-height: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;}
+	.radic {font-weight: bold; text-align:center; font-size: 10px; line-height: 18px; color: #990000; font-family: Verdana, Arial, Helvetica, sans-serif }
+	.chart2 {font-weight: bold; text-align:center; font-size: 12px; line-height: 18px; color: #990000; font-family: Verdana, Arial, Helvetica, sans-serif }
+
+	.chart {font-size: 12px; text-decoration: none; font-style:normal; line-height: 18px; color: #424242; font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+	.charts {font-weight: bold; text-align:center; font-size: 12px; font-valign:center; line-height: 18px; color: #990000; font-family: Verdana, Arial, Helvetica, sans-serif }
+
+
+	#customers
+	{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	background-color: white;
+	}
+	#customers td, #customers th 
+	{
+	font-size:1em;
+	border:1px solid #004e6d;
+	padding:3px 7px 2px 7px;
+	}
+	#customers th 
+	{
+	font-size:1em;
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:4px;
+	background-color:#003366;
+	color:#ffffff;
+	}
+	#customers tr.alt td 
+	{
+	color:#000000;
+	background-color:#d3d7f2;
+	}
+
+	.mobile_menu_button {
+		width: 80px;
+	}
+  </style>
+
+<script type="text/javascript"> 
+function recordOutboundLink(link, category, action) { 
+_gat._getTrackerByName()._trackEvent(category, action); 
+setTimeout('document.location = "' + link.href + '"', 100); 
+} 
+</script>
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<div class='title'><img src="images/responsive/amenities-title.jpg"></div>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+<p>
+<b>Features:</b> Available:<span class="radic">&radic;</span>&nbsp;&nbsp; Near by:<span class="chart">NB</span>&nbsp;&nbsp; Limited:<span class="chart">*</span><br>
+<br>
+
+Every Muskoka resort, lakeside inn and lodge offers their guests a selection of desirable amenities and we have listed them here for your convenience. All of our North Muskoka accommodation properties also offer plenty of fun things to do onsite, without leaving the resort property; popular activities such as ice-skating, tennis, canoeing and kayaking, to name just a few. At a glance, you can find the Muskoka lodge or resort that has the activities and amenities to satisfy everyone in your party, whether it's a romantic couple's getaway, a corporate retreat in cottage country or an Ontario family vacation.<br>
+<br>
+For the ultimate romantic couple's escape, book your stay at a Muskoka lodge or resort that offers cottage or suites with in-room fireplaces and Jacuzzi tubs. For those who like to stay active while on holiday, look for North Muskoka resorts that offer things like canoes, kayaks, sailboats, SUP, tennis, and mountain biking. Interested in booking a Muskoka resort for your next Ontario family vacation? You may wish to consider Muskoka lakeside lodges and cottage resorts that have kid's programs, playgrounds and sand beach. Looking for a well-earned break, away from your everyday cares and obligations, where you don't have to cook your own meals? Choose a North Muskoka lodge or resort that has an onsite dining room. From hearty home-cooked meals to gourmet, fine dining, several North Muskoka accommodation properties feature dining rooms that serve great food to satisfy every taste and budget.<br>
+<br>
+We invite you to be our guest at one of our fine waterfront resorts. Here in the north of Muskoka, you will discover the rugged natural beauty that has been immortalized by Canada's iconic Group of Seven artists. Clean, clear lakes, canopied forests, an abundance of wildlife and a wealth of exciting outdoor activities make North Muskoka a terrific holiday destination for those who love the great outdoors.<br>
+<br>
+There are plenty of exciting things to do in North Muskoka, all within close proximity. Activities such as Golf, Horseback Riding, Jet Ski Rentals, SPA Facilities, Alpine Skiing, Snowboarding and Dog Sledding are just around the corner. Check out our THINGS TO DO button above.
+</p>
+
+<table width="910" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tr>
+    <td valign="top">
+    
+    
+    <table id="customers" width="240">
+<tr>
+  <th height="36">Resort</th>
+</tr>
+<tr>
+<td height="20"><a class="bluetext" href="http://www.beauview.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.beauview.on.ca']);">Beauview Cottage Resort</a></td>
+</tr>
+<tr class="alt">
+<td height="20"><a class="bluetext" href="http://www.bluespruceresort.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.bluespruceresort.com']);">Blue Spruce Resort</a></td>
+</tr>
+<tr>
+<td height="20"><a class="bluetext" href="http://www.bondi-cottage-resort.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.bondi-cottage-resort.com']);">Bondi Village Resort</a></td>
+</tr>
+<tr class="alt">
+<td height="20"><a class="bluetext" href="http://www.cedargrove.on.ca" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.cedargrove.on.ca']);">Cedar Grove Lodge</a></td>
+</tr>
+<tr>
+<td height="20"><a class="bluetext" href="http://www.clyffehouse.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.clyffehouse.com']);">Clyffe House Cottage Resort</a></td>
+</tr>
+<tr class="alt">
+<td height="20"><a class="bluetext" href="http://www.colonialbay.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.colonialbay.com']);">Colonial Bay Resort</a></td>
+</tr>
+<tr>
+<td height="20"><a class="bluetext" href="http://www.foxwoodresort.ca" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.foxwoodresort.ca']);">Foxwood Resort</a></td>
+</tr>
+<tr class="alt">
+<td height="20"><a class="bluetext" href="http://www.loggingchainlodge.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.loggingchainlodge.com']);">Logging Chain Lodge</a></td>
+</tr>
+<tr>
+<td height="20"><a class="bluetext" href="http://www.luminaresort.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.luminaresort.com']);">Lumina Resort</a></td>
+</tr>
+<tr class="alt">
+<td height="20"><a class="bluetext" href="http://www.norsemen-walkerlake.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.norsemen-walkerlake.com']);">Norsemen - Walker Lake Resort</a></td>
+</tr>
+<tr>
+<td height="20"><a class="bluetext" href="http://www.pc-lodge.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.pc-lodge.com']);">Port Cunnington Lodge</a></td>
+</tr>
+<!-- <tr class="alt">
+<td height="20"><a class="bluetext" href="http://www.powwowpointlodge.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.powwowpointlodge.com']);">Pow Wow Point Lodge</a></td>
+</tr> -->
+<tr>
+<td height="20"><a class="bluetext" href="http://www.tallyhoinn.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.tallyhoinn.com']);">Tally-Ho Inn</a></td>
+</tr>
+<tr class="alt">
+<td height="20"><a class="bluetext" href="http://www.algonquinparkaccommodations.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Amenities', 'www.algonquinparkaccommodations.com']);">The Pines Cottage Resort</a></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+    
+    
+    </td>
+    <td valign="top">
+    
+<div style="height:454px;width:670px;overflow:auto;">
+<table id="customers" width="4800">
+<tr>				
+	<th width="40" class="table"><center>Air Cond.</center></th>
+	<th width="40" class="table" bgcolor="#BEB9A9"><center>BBQ</center></th>
+	<th width="40" class="table"><center>Beach</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Bike Rental</center></th>
+	<th width="50" class="table"><center>Boat Rentals</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Boat Launch</center></th>
+	<th width="50" class="table"><center>Boat Tours</center></th>
+    <th width="50" class="table" bgcolor="#BEB9A9"><center>Canoes Kayaks</center></th>
+	<th width="50" class="table"><center>kid's Program</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Cnf. Facilities</center></th>
+	<th width="50" class="table"><center>X-C Skiing</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Docking Facilities</center></th>
+	<th width="40" class="table"><center>Fire Pit</center></th>
+	<th width="40" class="table" bgcolor="#BEB9A9"><center>Fishing</center></th>
+	<th width="50" class="table"><center>Ice Fishing</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Internet Access</center></th>
+	<th width="40" class="table"><center>Fireplace</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>In Room Jacuzzi</center></th>
+	<th width="50" class="table"><center>Kitchen Kitchenette</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Meal Plan</center></th>
+	<th width="50" class="table"><center>Mountain Biking</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Nature Trails</center></th>
+	<th width="50" class="table"><center>Open Year Around</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Peddle Boats</center></th>
+	<th width="50" class="table"><center>Pets Allowed</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Play Ground</center></th>
+	<th width="50" class="table"><center>Pool</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Licensed Dining</center></th>
+	<th width="100" class="table"><center>Sailboats Windsurfers Paddle Boards</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Satellite TV</center></th>
+	<th width="50" class="table"><center>Skating Rink</center></th>
+	<th width="40" class="table" bgcolor="#BEB9A9"><center>Snowmobiling</center></th>
+	<th width="40" class="table"><center>Snowshoeing</center></th>
+	<th width="50" class="table" bgcolor="#BEB9A9"><center>Tennis</center></th>
+	<th width="70" class="table"><center>Tubing Water Skiing</center></th>
+    <th width="50" class="table" bgcolor="#BEB9A9"><center>Waterfront</center></th>
+	<th width="50" class="table"><center>Wheelchair Accessible</center></th>
+</tr>
+<tr><td class="radic" height="20">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart2">&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">Free</td>
+                <td class="chart2">&nbsp;</td>
+                <td class="chart2">&nbsp;</td>
+                <td class="radic">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart2">&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart2">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart2">&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">*</td></tr>
+                
+<tr class="alt"><td class="radic" height="20">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">*</td></tr>
+<tr>
+<td class="charts" height="20">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">Free</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">*</td>
+</tr>
+<tr class="alt">
+<td class="charts" height="20">&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">Free</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+</tr>
+<tr>
+<td class="radic" height="20">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+</tr>
+<tr class="alt">
+<td class="radic" height="20">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart">&nbsp;</td>
+</tr>
+<tr>
+<td class="charts" height="20">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >Free</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">*</td>
+</tr>
+<tr class="alt">
+<td class="charts" height="20">&nbsp;</td>
+                <td  class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="charts">Free</td>
+                <td class="charts">Free</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="charts">NB</td>
+                <td class="radic">&radic;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="charts" >NB</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+</tr>
+<tr>
+<td class="charts" height="20">&nbsp;</td>
+                <td  class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="charts">*</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">*</td>
+</tr>
+<tr class="alt">
+<td class="charts" height="20">&nbsp;</td>
+                <td  class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="charts">Free</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&nbsp;</td>
+                <td class="charts" >Free</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >*</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">*</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+</tr>
+<tr><td class="radic" height="20">*</td>
+                <td  class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&nbsp;</td>
+                <td class="charts" >Free</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >*</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >*</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >*</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">*</td>
+</tr>
+<!-- <tr class="alt"><td class="radic" height="20">&radic;</td>
+                <td  class="radic">&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+</tr> -->
+<tr><td class="charts" height="20">some</td>
+                <td  class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >Free</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="charts" >NB</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">NB</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="charts">*</td>
+</tr>
+<tr class="alt"><td class="charts" height="20">&nbsp;</td>
+                <td  class="radic">&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&nbsp;</td>
+                <td class="charts" >Free</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="charts">NB</td>
+                <td class="charts" >NB</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&radic;</td>
+                <td class="radic" >&radic;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="chart" >&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="chart">&nbsp;</td>
+                <td class="radic" >&nbsp;</td>
+                <td class="radic">&nbsp;</td>
+                <td class="radic" >&radic;</td>
+                <td class="radic">&nbsp;</td>
+</tr>
+<tr><td colspan="38" height="18">&nbsp;</td></tr>
+</table>
+  </div>  
+    
+    </td>
+  </tr>
+</table>
+
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+</body>
+</html>

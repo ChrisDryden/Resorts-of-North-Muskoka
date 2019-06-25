@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!--#include file="head.htm"-->
+	<style type="text/css">
+		.directions, .resorts {
+			display: inline-block;
+			width: calc(50% - 5px);
+			vertical-align: top;
+		}
+
+		.directions img, .directions iframe {
+			width: 100%;
+		}
+
+		blockquote {
+			width: 300px;
+			font-style: italic;
+			padding: 10px;
+			background-color: rgba(255,255,255,0.5);
+		}
+
+		.imgR, .imgL {
+			border: 1px solid #BCB49C;
+		}
+
+		@media (max-width: 850px) {
+			.directions, .resorts {
+				display: block;
+				width: 100%;
+				text-align: center;
+			}
+
+			table {
+				width: 100%;
+			}
+
+			.directions img {
+				max-width: 400px;
+			}
+		}
+
+		.bottom-photos {
+			text-align: center;
+			vertical-align: top;
+		}
+
+		.bottom-photos img {
+			width: 300px;
+			max-width: 100%;
+		}
+
+	</style>
+</head>
+<body>
+	<div class='wrapper'>
+		<header>
+			<!--#include file="nav1.htm"-->
+			<!--#include file="slideshow.htm"-->
+			<!--#include file="nav2.htm"-->
+		</header>
+		<div class='title'><img src="images/responsive/title-celebrations.jpg"><a href="resorts.shtml"><img src="images/resort-view-button.png" width="200" height="30" alt="view resorts" border="0" align="right" /></a></div>
+		<div class='main'>
+			<!-- MAIN CONTENT ===================================================== -->
+
+			<span class='titles'>Celebrate North Muskoka style</span><br><br>
+
+			<img src="images/jumping.jpg" alt='skiing' class='imgC'>
+
+						<div class='share-bar'>
+			<span class='st_facebook_large' st_url="http://north-muskoka.com/celebrations.shtml" displayText='Facebook'></span>
+			<span class='st_twitter_large' st_url="http://north-muskoka.com/celebrations.shtml" displayText='Tweet'></span>
+			<span class='st_pinterest_large' st_url="http://north-muskoka.com/celebrations.shtml" displayText='Pinterest'></span>
+			<span class='st_googleplus_large' st_url="http://north-muskoka.com/celebrations.shtml" displayText='Google +'></span>
+			<span class='st_email_large' st_url="http://north-muskoka.com/celebrations.shtml" displayText='Email'></span>
+			<script type="text/javascript">var switchTo5x=true;</script>
+			<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+			</div>
+
+			<p>When you're celebrating something big – a wedding, anniversary, milestone birthday or reunion – and you want your family and friends close by, there's no better place to celebrate than in North Muskoka.</p>
+
+			<p>The stunning backdrop of North Muskoka's pristine lakes, dramatic granite cliffs and towering trees provides the perfect setting for almost any occasion. Add the relaxed charm of one of <a href="http://north-muskoka.com/amenities.shtml"></a>North Muskoka's cottage resorts</a> and you'll have an unforgettable location that will keep your guests saying "Remember when..." for years to come.</p>
+
+			<p>Whether you're coming for a weekend or a week-long celebration, many North Muskoka accommodations can be exclusively reserved for groups, ensuring that your guests – the best of friends or long-lost cousins – will have time to relax and reconnect with one another.</p>
+
+			<img src="images/sunset.jpg" alt='sunset' class='imgC'>
+
+			<p>Here's just one possible scenario: an evening barbecue sets a welcoming, relaxed tone as the members of your group arrive to check in. Laughter rings out across the lake. Someone pulls out a guitar and an impromptu fireside concert begins. Loon calls become background vocals. Oohs and ahhs erupt over a gorgeous sunset. And as the night winds down, guests disperse, some choosing to retire for the night while others gather to visit in small groups at the cottages dotted across a beautiful lakeside property. The next morning, someone in the next cottage gestures excitedly at the deer grazing at the edge of the forest. Guests come and go as they enjoy the many activities and amenities available like swimming, waterskiing, kayaking or just relaxing on the beach. Late in the afternoon, rejuvenated by a day of play, everyone gathers together again for an official celebration, a casual meal or a bonfire complete with the requisite marshmallow roast. And the next day? Repeat! It's the kind of weekend that makes everyone linger because no one wants to leave.</p>
+
+			<img src="images/party_boat.jpg" alt='sunset' class='imgC'>
+
+			<p>The wonderful thing about a celebration in North Muskoka is that you can make it however you want it to be. Whatever your needs, chances are you'll find them all here. Need room for a big reception? Look for a resort with dining facilities. Want to get everyone out on the water? Boat tours or rentals are options at many resorts. Have lots of kids joining in the fun? Playgrounds and kids' activities are abundant. </p>
+
+			<p>If you're planning a wedding, a North Muskoka weekend celebration removes one of the biggest regrets brides and grooms have – not enough time to spend with their guests. When you choose a <a href="http://north-muskoka.com/weddings.shtml">North Muskoka resort</a> for your big day, what could be a whirlwind of activity is transformed into a relaxed get-together that leaves everyone craving more.</p>
+
+			<p>What makes a special celebration doubly special in North Muskoka? It's the relaxed, friendly atmosphere – where your hosts treat you like family and your cottage feels like home – that's key to a memorable weekend, no matter what you're celebrating.</p>
+
+			<div class='bottom-photos'>
+				<img src="images/lake_ceremony.jpg">
+				<img src="images/dining_room.jpg">
+				<img src="images/reception_by_lake.jpg">
+			</div>
+
+			<div style='clear:both'></div>
+
+			<!--#include file="bottom_banner_ads.htm"-->
+
+
+			<!-- END MAIN CONTENT ===================================================== -->
+		</div>
+		<!--#include file="footer.htm"-->
+		<script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>

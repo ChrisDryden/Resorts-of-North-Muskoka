@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="headpackages.htm"-->
+  <style type="text/css">
+  	.main {
+  		text-align: center;
+  	}
+  </style>
+
+<script type="text/javascript"> 
+function recordOutboundLink(link, category, action) { 
+_gat._getTrackerByName()._trackEvent(category, action); 
+setTimeout('document.location = "' + link.href + '"', 100); 
+} 
+</script> 
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<div class='title'><img src="images/responsive/packages-title.jpg"></div>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	
+
+		 <!--  <H1 style="text-decoration: none; vertical-align:top; font-weight: bold; font-size: 14px; line-height: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #660000;">Muskoka Resort Vacation Packages</H1> -->
+		
+			<div id='ad-container'>
+				<a href="http://www.cedargrove.on.ca/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Packages', 'www.cedargrove.on.ca']);"><img src="images/packages/CedarGroveFinal.png" border="0" alt="cedar" /></a>
+
+				<a href="https://www.pronto2.com/thepines/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Packages', 'www.algonquinparkaccommodations.com']);"><img src="images/packages/ThePinesFinal.png" border="0" alt="pines" /></a>
+
+
+
+
+				<a href="http://www.bondi-cottage-resort.com/events.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Packages', 'www.bondi-cottage-resort.com']);"><img src="images/packages/BondiFinal.png" border="0" alt="Bondi" /></a>
+
+				<a href="http://www.clyffehouse.com/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Packages', 'www.clyffehouse.com']);"><img src="images/packages/ClyffHouseFinal.png" border="0" alt="Clyffe House" /></a>
+
+			               
+                <a href="http://www.bluespruce.ca/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Packages', 'www.bluespruce.ca']);"><img src="images/packages/BlueSpruceFinal.png" border="0" alt="Bluespruce" /></a>
+                
+                <a href="http://www.portcunnington.com/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Packages', 'www.portcunnington.com']);"><img src="images/packages/PortCunningtonFinal.png" border="0" alt="Cunnington" /></a>
+                
+                <a href="https://www.pronto2.com/colonialbay/packages.php" target="_blank" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Packages', 'www.colonialbay.com']);"><img src="images/packages/ColonialBayFinal.png" border="0" alt="Colonial" /></a>
+                
+                
+
+			</div>
+	
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script>
+		function Shuffle(o) {
+			for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+			return o;
+		};
+		$(document).ready(function(){
+			//read each add into array
+			var ad_arr = [
+				'<a href="http://www.cedargrove.on.ca/" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'Packages\', \'www.cedargrove.on.ca\']);"><img src="images/packages/CedarGroveFinal.png" border="0" alt="cedar" /></a>',
+				'<a href="https://www.pronto2.com/thepines/" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'Packages\', \'www.algonquinparkaccommodations.com\']);"><img src="images/packages/ThePinesFinal.png" border="0" alt="pines" /></a>',
+			'<a href="http://www.bondi-cottage-resort.com/events.htm" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'Packages\', \'www.bondi-cottage-resort.com\']);"><img src="images/packages/BondiFinal.png" border="0" alt="Bondi" /></a>',
+				'<a href="http://www.clyffehouse.com/" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'Packages\', \'www.clyffehouse.com\']);"><img src="images/packages/ClyffHouseFinal.png" border="0" alt="Clyffe House" /></a>',
+							
+				'<a href="http://www.bluespruce.ca" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'Packages\', \'www.bluespruce.ca\']);"><img src="images/packages/BlueSpruceFinal.png" border="0" alt="Bluespruce" /></a>',
+				
+				'<a href="http://www.portcunnington.com" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'Packages\', \'www.portcunnington.com\']);"><img src="images/packages/PortCunningtonFinal.png" border="0" alt="Cunnington" /></a>',
+				
+				'<a href="https://www.pronto2.com/colonialbay/packages.php" target="_blank" onclick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'Packages\', \'www.colonialbay.com\']);"><img src="images/packages/ColonialBayFinal.png" border="0" alt="Colonial" /></a>'
+				
+			
+			
+			
+			];
+
+			Shuffle(ad_arr);
+
+			//output back into the container
+			var output_html = "";
+			
+			$.each(ad_arr,function(index, value){
+				output_html += value;
+			});
+
+			$('#ad-container').html(output_html);
+		});
+	</script>
+</body>
+</html>

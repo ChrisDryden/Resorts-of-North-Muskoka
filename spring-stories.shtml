@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <style type="text/css">
+  	.main {
+  		text-align: center;
+  	}
+
+  	.main a {
+  		color: inherit;
+  		text-decoration: none;
+  	}
+  </style>
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<h1 class='pagetitle'>SPRING</h1>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	  	<a href="celebrations.shtml"><div class='story-preview'>
+			<div class='img' style='background-image:url(images/jumping.jpg);'></div>
+			<div class='text-preview'>
+				<h3>Celebrations</h3>
+
+				<p>When you're celebrating something big – a wedding, anniversary, milestone birthday or reunion – and you want your family and friends close by...</p>
+
+				<p class='readmore'>Read More...</p>
+			</div>
+		</div></a>
+
+		<a href="day-trips.shtml"><div class='story-preview'>
+			<div class='img' style='background-image:url(images/atvs.jpg);'></div>
+			<div class='text-preview'>
+				<h3>Day Trips in North Muskoka</h3>
+
+				<p>There are few things as satisfying as spending a day at play and then returning to the comforts of home. A getaway in North Muskoka is no different, no matter how far you’ve travelled to get here....</p>
+
+				<p class='readmore'>Read More...</p>
+			</div>
+		</div></a>
+
+		<a href="golf-in-muskoka.shtml"><div class='story-preview'>
+			<div class='img' style='background-image:url(images/golf_arial.jpg);'></div>
+			<div class='text-preview'>
+				<h3>Golf in Muskoka</h3>
+
+				<p>North Muskoka’s beauty has always caught the eye of outdoor enthusiasts, golf course designers among them. Thanks to their vision, North Muskoka is home to some of the most scenic courses in the world. Seemingly carved out of granite...</p>
+
+				<p class='readmore'>Read More...</p>
+			</div>
+		</div></a>
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+</body>
+</html>

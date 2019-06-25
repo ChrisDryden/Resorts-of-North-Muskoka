@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!--#include file="head.htm"-->
+
+</head>
+<body>
+	<div class='wrapper'>
+		<header>
+			<!--#include file="nav1.htm"-->
+			<!--#include file="slideshow.htm"-->
+			<!--#include file="nav2.htm"-->
+		</header>
+		<div class='title'><img src="images/responsive/title-carefree_summer.jpg"><a href="resorts.shtml"><img src="images/resort-view-button.png" width="200" height="30" alt="view resorts" border="0" align="right" /></a></div>
+		<div class='main'>
+			<!-- MAIN CONTENT ===================================================== -->
+
+			<img src="images/responsive/summer1.jpg" class='imgC'>
+
+			<div class='share-bar'>
+			<span class='st_facebook_large' st_url="http://north-muskoka.com/carefree_summer.shtml" displayText='Facebook'></span>
+			<span class='st_twitter_large' st_url="http://north-muskoka.com/carefree_summer.shtml" displayText='Tweet'></span>
+			<span class='st_pinterest_large' st_url="http://north-muskoka.com/carefree_summer.shtml" displayText='Pinterest'></span>
+			<span class='st_googleplus_large' st_url="http://north-muskoka.com/carefree_summer.shtml" displayText='Google +'></span>
+			<span class='st_email_large' st_url="http://north-muskoka.com/carefree_summer.shtml" displayText='Email'></span>
+			<script type="text/javascript">var switchTo5x=true;</script>
+			<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+			</div>
+
+			<p>A North Muskoka vacation will make you want to return to again and again</p>
+			<p>Resort vacations are popular for their simplicity. You show up and just about everything you need is right there. But you don’t have to travel to a far-flung destination to have a memorable experience. All of the ingredients for the perfect family vacation can be found at the <a href='http://www.north-muskoka.com/' >Resorts of North Muskoka.</a></p>
+			<p>You’ll never hear your kids say “we’re bored” at our resorts. There isn’t enough time in a day to explore <a href='amenities.shtml'>all of the things you can do</a> without ever having to move your car. </p>
+			
+			<img src="images/responsive/summer2.jpg" class='imgR' style='width:400px;'>
+
+			<p>Each of our lakeside resorts has an abundance of water- or beach-based activities: go for a swim, bounce on a water trampoline, take a canoe or kayak out for a paddle, get a waterskiing or wakeboarding lesson from the resort owners, hop in a paddleboat with your kids, try windsurfing, build a sandcastle or just sink your toes into the warm sand and read a book. Go fishing from the dock or by boat. At some resorts, you can even try sailing, surfing, stand-up paddleboarding and windsurfing, or go for a leisurely guided boat tour around the lake.</p>
+
+			<p>The options on land are equally abundant. Many resorts have interpretive hiking trails on site. At others you can play a game of tennis, volleyball or disc golf or try archery. Go for a bike ride. Watch the wildlife wander through: deer, foxes, turkeys and the occasional moose. Paint a scene from nature or take some photos. Enjoy a corn roast or a beach cookout.</p>
+			<p>Sometimes the best thing to do is nothing. Sit in a Muskoka chair on the deck, dock or beach and enjoy the scenery. Soak in a hot tub. Get a massage.</p>
+			<p>When night falls, there are still lots of activities to enjoy. Roast marshmallows over a campfire. Star gaze or see if you can spot a bat catching its meal in the night sky. Play a board game. Watch a movie.</p>
+
+			<p>With a choice of either on-site dining rooms where a chef prepares all of your meals or self-catering cottages where you can make your own, you truly never have to leave the resort unless you want to. Some resorts even keep bees, chickens and gardens so you can enjoy hyper-local delicious honey, eggs and fresh vegetables and greens.</p>
+			<p>One of the unique things you’ll find during a North Muskoka vacation is the connections you make. The way your family feels closer. The life-long friends your kids make on the beach. The easy conversations you have by the campfire. There’s nothing quite like it.</p>
+			<p>No one can tell you what your best vacation should look like. When you choose to stay at a cottage resort in North Muskoka, you get to decide what you want to do and when you want to do it. Bring your imagination and we’ll provide the rest. </p>
+
+			<img src="images/responsive/summer6.jpg" class='imgC'>
+
+			<div style='clear:both'></div>
+			<!--#include file="bottom_banner_ads.htm"-->
+
+			<!-- END MAIN CONTENT ===================================================== -->
+		</div>
+		<!--#include file="footer.htm"-->
+		<script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>

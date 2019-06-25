@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <style type="text/css">
+    .directions, .resorts {
+      display: inline-block;
+      width: calc(50% - 5px);
+      vertical-align: top;
+    }
+
+    .directions img, .directions iframe {
+      width: 100%;
+    }
+
+    @media (max-width: 850px) {
+      .directions, .resorts {
+        display: block;
+        width: 100%;
+        text-align: center;
+      }
+
+      table {
+        width: 100%;
+      }
+
+      .directions img {
+        max-width: 400px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+  <div class='wrapper'>
+    <header>
+      <!--#include file="nav1.htm"-->
+      <!--#include file="slideshow.htm"-->
+      <!--#include file="nav2.htm"-->
+    </header>
+    <div class='title'><img src="images/responsive/contact-title.jpg"></div>
+    <div class='main'>
+      <!-- MAIN CONTENT ===================================================== -->
+
+      <div class='resorts'>
+        <p>
+        <span class="titles">Resorts of North Muskoka</span><br />
+        <strong>Email:</strong> <a href="mailto:northmuskoka@gmail.com">northmuskoka@gmail.com</a>
+        </p>
+
+        <table cellpadding="4" cellspacing="0" border="0">
+          <tr><td class="bullets2">Name</td><td class="bullets2">Contact</td></tr>
+            <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>
+          
+                   <tr bgcolor="#c8bda7"><td valign="top" class="bullets2"><b>Blue Spruce Resort</b></td><td valign="top" class="table2">705-635-2330<br><a href="mailto:info@bluespruce.ca">info@bluespruce.ca</a><br><a class="tablered" href="http://www.bluespruce.ca" target="_blank">www.bluespruce.ca</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>
+
+          <tr bgcolor="#FFFFFF"><td valign="top" class="titles"><b>Bondi Village</b></td><td valign="top" class="table2">888-300-2132<br><a href="mailto:info@bondi.on.ca">info@bondi.on.ca</a><br><a class="tablered" href="http://www.bondi-cottage-resort.com" target="_blank">www.bondi-cottage-resort.com</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#c8bda7"><td valign="top" class="bullets2"><b>Cedar Grove Lodge</b></td><td valign="top" class="table2">800-461-4269<br><a href="mailto:info@cedargrove.on.ca">info@cedargrove.on.ca</a><br><a class="tablered" href="http://www.cedargrove.on.ca" target="_blank">www.cedargrove.on.ca</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#FFFFFF"><td valign="top" class="titles"><b>Clyffe House Cottage Resort</b></td><td valign="top" class="table2">866-335-2236<br><a href="mailto:dscott@clyffehouse.com">dscott@clyffehouse.com</a><br><a class="tablered" href="http://www.clyffehouse.com" target="_blank">www.clyffehouse.com</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#c8bda7"><td valign="top" class="bullets2"><b>Colonial Bay Resort</b></td><td valign="top" class="table2">800-916-2008<br><a href="mailto:mail@colonialbay.com">mail@colonialbay.com</a><br><a class="tablered" href="http://www.colonialbay.com" target="_blank">www.colonialbay.com</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#FFFFFF"><td valign="top" class="titles"><b>Foxwood Resort</b></td><td valign="top" class="table2">866-919-3933<br><a href="mailto:holiday@foxwoodresort.ca">holiday@foxwoodresort.ca</a><br><a class="tablered" href="http://www.foxwoodresort.ca" target="_blank">www.foxwoodresort.ca</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#c8bda7"><td valign="top" class="bullets2"><b>Logging Chain Lodge</b></td><td valign="top" class="table2">877-635-2575<br><a href="mailto:info@loggingchainlodge.on.ca ">info@loggingchainlodge.on.ca </a><br><a class="tablered" href="http://www.loggingchainlodge.com" target="_blank">www.loggingchainlodge.com</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#FFFFFF"><td valign="top" class="titles"><b>Lumina Resort</b></td><td valign="top" class="table2">800-461-4371<br><a href="mailto:info@luminaresort.com">info@luminaresort.com</a><br><a class="tablered" href="http://www.luminaresort.com" target="_blank">www.luminaresort.com</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#FFFFFF"><td valign="top" class="titles"><b>Port Cunnington Lodge</b></td><td valign="top" class="table2">1-800-894-1105<br><a href="mailto:info@pc-lodge.com">info@pc-lodge.com</a><br><a class="tablered" href="http://www.portcunnington.com" target="_blank">www.portcunnington.com</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#FFFFFF"><td valign="top" class="titles"><b>Tally Ho Inn Lodge</b></td><td valign="top" class="table2">800-461-4232<br><a href="mailto:info@tallyhoinn.com">info@tallyhoinn.com</a><br><a class="tablered" href="http://www.tallyhoinn.com" target="_blank">www.tallyhoinn.com</a><br><br></td></tr>
+
+          <tr><td colspan="2"><img src="./images/blue_spacer.gif" border="0" height="1" class='blue-spacer'></td></tr>        
+
+          <tr bgcolor="#c8bda7"><td valign="top" class="bullets2"><b>The Pines Cottage Resort</b></td><td valign="top" class="table2">705-635-2379<br><a href="mailto:info@algonquinparkaccommodations.com">info@algonquinparkaccommodations.com</a><br><a class="tablered" href="http://www.algonquinparkaccommodations.com" target="_blank">www.algonquinparkaccommodations.com</a><br><br></td></tr>
+        </table>
+      </div>
+
+      <table border="0" cellspacing="0" cellpadding="0" class='directions'>
+        <tr>
+          <td><p><span class="titles">General Driving Directions</span></p>
+          <p>
+          <span class="bullets2">From Toronto</span><br />  
+      Traveling from the Toronto area follow highway 400 north to highway # 11. Continue north on highway 11 to highway # 60. Highway #60 is the 3rd exit for Huntsville and travels eastward to Algonquin Park and Ottawa. Travel along highway #60 to Dwight.
+        </p>
+        <p>
+        <span class="bullets2">From Ottawa</span><br />
+      Take Hwy 60 through Dwight.
+        </p>
+          <p>
+        <span class="bullets2">From North Bay, Sudbury</span><br />
+      Travel to intersection Hwy 11 and Hwy 60. Go east on Hwy 60 to Dwight.
+        </p>
+          <p>
+        <span class="bullets2">Detailed Instructions:</span><br />
+      Please use the interactive Map to get detailed driving instructions to any of the properties.</td>
+        </tr>
+        <tr>
+          <td><iframe height="325" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=200686867864157173499.000440107d4d191ada440&amp;om=0&amp;source=embed&amp;t=m&amp;ll=45.28455,-79.056244&amp;spn=0.314022,0.547943&amp;z=10&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=200686867864157173499.000440107d4d191ada440&amp;om=0&amp;source=embed&amp;t=m&amp;ll=45.28455,-79.056244&amp;spn=0.314022,0.547943&amp;z=10" style="color:#0000FF;text-align:left">Resorts of North Muskoka</a> in a larger map</small>
+          <br /><br />
+          <img src="images/ontario-map.jpg" alt="ontario map" /></td>
+        </tr>
+      </table>
+
+      <!-- END MAIN CONTENT ===================================================== -->
+    </div>
+    <!--#include file="footer.htm"-->
+</body>
+</html>

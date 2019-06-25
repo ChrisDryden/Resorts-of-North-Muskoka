@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #666666;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+}
+.oneColFixCtrHdr #container {
+	width: 240px;  /* using 20px less than a full 260px width allows for browser chrome and avoids a horizontal scroll bar */
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	border: 1px solid #000000;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+.oneColFixCtrHdr #header {
+	background: #d9caa9; 
+	padding: 0px;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
+}
+.oneColFixCtrHdr #mainContent {
+	padding: 0px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+	background: #d9caa9;
+}
+.oneColFixCtrHdr #footer {
+	padding: 0px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+	background:#d9caa9;
+}
+.oneColFixCtrHdr #footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 0px; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+}
+
+.text {text-decoration: none; padding: 4px; font-size: 12px; line-height: 14px; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; color: #ffffff;}
+
+.bottommenu {text-decoration: none; font-size: 10px; line-height: 10px; text-align: center; font-family: Verdana, Arial, Helvetica, sans-serif; color: #ffffff;}
+
+.table2 { font-size: 10px; padding: 4px; line-height: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;}
+
+.tablered { font-size: 10px; line-height: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #990000;}
+
+.bullets {font-weight: bold; font-size: 10px; line-height: 14px; ! important; color: #003366;}

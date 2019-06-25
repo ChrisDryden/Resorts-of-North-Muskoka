@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <style type="text/css">
+    .main {
+      text-align: center;
+    }
+
+    .galleria {
+      height: 500px;
+      width: 100%;
+    }
+
+  </style>
+</head>
+<body>
+  <div class='wrapper'>
+    <header>
+      <!--#include file="nav1.htm"-->
+      <!--#include file="slideshow.htm"-->
+      <!--#include file="nav2.htm"-->
+    </header>
+    <div class='title'><img src="images/responsive/gallery-title.jpg"></div>
+    <div class='main'>
+      <!-- MAIN CONTENT ===================================================== -->
+
+<p>Click on the thumbnails below to view a larger version.</p>
+
+<div class="galleria" style="display: block;visibility: visible;">
+
+<img src='images/photogallery/a_snowy-creek.jpg'>
+<img src='images/photogallery/a_cross-country-skiing.jpg'>
+<img src='images/photogallery/a_christmas-newyears.jpg'>
+<img src='images/photogallery/a_winter-sun.jpg'>
+<img src='images/photogallery/a_winter-sunset.jpg'>
+<img src='images/photogallery/a_ice-skating.jpg'>
+<img src='images/photogallery/a_winter-lake.jpg'>
+<img src='images/photogallery/b_gordsamsung 195.jpg'>
+<img src='images/photogallery/b_September 30 2012 014.jpg'>
+<img src='images/photogallery/b_gordsamsung 201.jpg'>
+<img src='images/photogallery/b_Indian Landing maple c.jpg'>
+<img src='images/photogallery/b_sunset trail yellow ferns   Greg Scott.jpg'>
+<img src='images/photogallery/b_NGR Jeff D.jpg'>
+<img src='images/photogallery/b_The waterfall in October.jpg'>
+<img src='images/photogallery/nm001.jpg'>
+<img src='images/photogallery/nm002.jpg'>
+<img src='images/photogallery/nm003.jpg'>
+<img src='images/photogallery/nm004.jpg'>
+<img src='images/photogallery/nm005.jpg'>
+<img src='images/photogallery/nm006.jpg'>
+<img src='images/photogallery/nm007.jpg'>
+<img src='images/photogallery/nm008.jpg'>
+<img src='images/photogallery/nm009.jpg'>
+<img src='images/photogallery/nm010.jpg'>
+<img src='images/photogallery/nm011.jpg'>
+<img src='images/photogallery/nm012.jpg'>
+<img src='images/photogallery/nm013.jpg'>
+<img src='images/photogallery/nm014.jpg'>
+<img src='images/photogallery/nm015.jpg'>
+<img src='images/photogallery/nm016.jpg'>
+<img src='images/photogallery/nm017.jpg'>
+<img src='images/photogallery/nm018.jpg'>
+<img src='images/photogallery/nm019.jpg'>
+<img src='images/photogallery/nm020.jpg'>
+<img src='images/photogallery/nm021.jpg'>
+<img src='images/photogallery/nm022.jpg'>
+<img src='images/photogallery/nm023.jpg'>
+<img src='images/photogallery/nm024.jpg'>
+<img src='images/photogallery/nm025.jpg'>
+<img src='images/photogallery/nm026.jpg'>
+<img src='images/photogallery/nm027.jpg'>
+<img src='images/photogallery/nm028.jpg'>
+<img src='images/photogallery/nm029.jpg'>
+<img src='images/photogallery/nm030.jpg'>
+<img src='images/photogallery/nm031.jpg'>
+<img src='images/photogallery/nm032.jpg'>
+<img src='images/photogallery/nm033.jpg'>
+<img src='images/photogallery/nm034.jpg'>
+<img src='images/photogallery/nm035.jpg'>
+<img src='images/photogallery/nm036.jpg'>
+<img src='images/photogallery/nm037.jpg'>
+<img src='images/photogallery/nm038.jpg'>
+<img src='images/photogallery/nm039.jpg'>
+<img src='images/photogallery/nm040.jpg'>
+<img src='images/photogallery/nm041.jpg'>
+<img src='images/photogallery/nm042.jpg'>
+<img src='images/photogallery/nm043.jpg'>
+<img src='images/photogallery/nm044.jpg'>
+<img src='images/photogallery/nm045.jpg'>
+<img src='images/photogallery/nm046.jpg'>
+<img src='images/photogallery/nm047.jpg'>
+<img src='images/photogallery/nm048.jpg'>
+<img src='images/photogallery/nm049.jpg'>
+<img src='images/photogallery/nm050.jpg'>
+
+ </div>
+
+      <!-- END MAIN CONTENT ===================================================== -->
+    </div>
+    <!--#include file="footer.htm"-->
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.4.5/galleria.min.js"></script>
+   <script type="text/javascript">
+      $(document).ready(function(){
+        //$.get("/get_images.php",function(images){
+          //$('.galleria').html(images);
+
+          Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.4.5/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria');
+          
+        //});
+
+      });
+   </script>
+</body>
+</html>

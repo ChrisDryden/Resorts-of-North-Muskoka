@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<h1 class='pagetitle'>Day Trips in North Muskoka</h1>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	  	<img src="images/atvs.jpg" class='imgC'>
+
+	  	<div class='share-bar'>
+		<span class='st_facebook_large' st_url="http://north-muskoka.com/day-trips.shtml" displayText='Facebook'></span>
+			<span class='st_twitter_large' st_url="http://north-muskoka.com/day-trips.shtml" displayText='Tweet'></span>
+			<span class='st_pinterest_large' st_url="http://north-muskoka.com/day-trips.shtml" displayText='Pinterest'></span>
+			<span class='st_googleplus_large' st_url="http://north-muskoka.com/day-trips.shtml" displayText='Google +'></span>
+			<span class='st_email_large' st_url="http://north-muskoka.com/day-trips.shtml" displayText='Email'></span>
+			<script type="text/javascript">var switchTo5x=true;</script>
+			<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+		</div>
+
+	  	<img src="images/high-ropes.jpg" class='imgR' style='max-width:300px;'>
+
+		<p>There are few things as satisfying as spending a day at play and then returning to the comforts of home. A getaway in North Muskoka is no different, no matter how far you&rsquo;ve travelled to get here. You can explore an abundance of <a href="attractions.shtml">nearby attractions</a> by day and, when you&rsquo;re ready to relax, return &ldquo;home&rdquo; to enjoy the cozy comforts of a <a href="resorts.shtml">cottage resort</a>.</p>
+
+		<p>Two of Ontario&rsquo;s most beloved provincial parks are just a short drive away from any of the Resorts of North Muskoka. World-renowned <a href="http://www.algonquinpark.on.ca/">Algonquin Park</a> is at North Muskoka&rsquo;s eastern edge. There you can hike, bike, paddle on your own or take a <a href="http://algonquinoutfitters.com/day-trips/day-trip-packages/guided-algonquin-park/">guided canoe trip</a>, wildlife watch, visit an <a href="http://www.algonquinartcentre.com/">art gallery</a>, or just stop for ice cream. In <a href="http://www.ontarioparks.com/park/arrowhead">Arrowhead Provincial Park</a> just north of Huntsville, you can spend your day hiking or biking 15 kilometres of trails, go for a paddle or just relax on the beach. And don&rsquo;t forget to travel back in <a href="winter_fun.shtml">winter</a> to experience a local gem: Arrowhead&rsquo;s <a href="http://explorersedge.ca/the-ice-trail-at-arrowhead-provincial-park/">ice trail</a>, a 1.5-kilometre skating trail through the forest.</p>
+
+		<img src="images/dorset_tower_view.jpg" class='imgR' style='max-width:300px;'>
+
+		<p>If you want even more adventure, get up into the trees instead of just hiking among them. <a href="http://treetoptrekking.com/en/huntsville/">Treetop Trekking</a> in Huntsville has a variety of courses for almost all ages and abilities. Or scale the <a href="http://www.algonquinhighlands.ca/?cat=recreation&amp;subPage=lookout_tower">Dorset Lookout Tower</a>, a former fire lookout tower, to get a bird&rsquo;s-eye view of the landscape.</p>
+
+		<p>If cultural attractions are what floats your boat, a tour on the <a href="http://ssbigwin.com/">SS Bigwin</a> on Lake of Bays is a must-do activity. A restored steamship, the Bigwin first sailed in 1910 on Lake Muskoka and was later relocated to Lake of Bays where it ferried vacationers to a world famous resort that once thrived on Bigwin Island half a century ago.</p>
+
+		<p>You can learn even more area history by visiting <a href="http://www.muskokaheritageplace.org/en/">Muskoka Heritage Place</a> in Huntsville, home to a museum, pioneer village and the Portage Flyer steam train, a tiny railway that was once the smallest commercial railway in the world right in neighbouring Dwight. When you return to your North Muskoka cottage resort, don&rsquo;t forget to ask your hosts about the <a href="history.shtml">history</a> of the place. Many have a storied past that stretches back more than a century.</p>
+
+		<img src="images/mural.jpg" class='imgL' style='max-width:300px;'>
+
+		<p>Art lovers will appreciate the <a href="http://www.thegroupofsevenoutdoorgallery.com/">Group of Seven Outdoor Gallery</a>, a collection of more than 90 outdoor murals celebrating the paintings of Tom Thomson and the Group of Seven. The gallery tour stretches east from Huntsville all the way to Algonquin Park and south to Baysville. It&rsquo;s accessible any time of the year but it&rsquo;s a particularly beautiful drive in the summer and fall.</p>
+
+		<p>During your travels stop in at <a href="http://www.henriettaspinebakery.net/">Henrietta&rsquo;s Pine Bakery</a> in Dwight for a sweet treat, grab a snack or lunch at <a href="http://www.missnelles.ca/">Miss Nelle&rsquo;s Antiques and Caf&eacute;</a> in Baysville or cool off with tasty ice cream at <a href="http://www.bellyicecreamcompany.ca/">Belly Ice Cream Company</a> in Huntsville.</p>
+
+		<p>And when you&rsquo;ve had enough adventure for the day, return &ldquo;home&rdquo; to a cottage resort where you can relax in front of a fire or settle into a Muskoka chair and dig your toes into the sand. If you&rsquo;ve never vacationed like this, you&rsquo;re in for a treat. Find your home away from home in North Muskoka.</p>
+
+		<div style='clear:both;'></div>
+
+		<!--#include file="bottom_banner_ads.htm"-->
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>

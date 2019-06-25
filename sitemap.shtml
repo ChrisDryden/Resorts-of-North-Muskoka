@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+  <style type="text/css">
+  	td {
+		padding-top: 0;
+		padding-bottom: 0;
+		border-bottom: 1px solid #000066;
+	}
+
+  </style>
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<div class='title'><img src="images/responsive/todo-title.jpg"></div>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+<p>
+<a href="http://www.resortsofontario.com/" target="_self" class="links">Home</a> ~ what the resorts of North Muskoka have to offer.<br />
+<a href="history.shtml" target="_self" class="links">History</a> ~ historical info about the resorts and lodges.<br />
+<a href="places.shtml" target="_self" class="links">Resorts Information</a> ~ features of the associated resorts and lodges.<br />
+<a href="amenities.shtml" target="_self" class="links">Resorts Amenities</a> ~ detailed listing of resort amenities.<br />
+<a href="weddings_reunions.shtml" target="_self" class="links">Weddings / Groups</a> ~ celebrate with family and friends in North Muskoka.<br />
+<a href="seasons.shtml" target="_self" class="links">Seasons</a> ~ see what activities the resorts have to offer throughout the year.<br />
+<a href="packages.shtml" target="_self" class="links">Packages</a> ~ getaway specials and ideas for couples, seniors and families.<br />
+<a href="attractions.shtml" target="_self" class="links">Things To Do</a> ~ local attractions, dining, shopping, events and local outdoor activities.<br />
+<a href="gallery.shtml" target="_blank" class="links">Gallery</a> ~ various photos of the North Muskoka resort activities and scenery.<br />
+<a href="contact.shtml" target="_self" class="links">Contact us</a> ~ web address, email and phone numbers of the resorts &amp; lodges.<br />
+<a href="http://north-muskoka.com/mobile/index.html" target="_self" class="links">Mobile Site</a> ~ quick phone guide of North Muskoka Resorts.
+</p>
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+<script type="text/javascript">
+// Copyright 2006-2007 javascript-array.com
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+// open hidden layer
+
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose;
+
+function gotosite(site) {
+        if (site != "") {
+            if (site.substring(0, 4) == "http") {
+                top.document.location = site;
+            } else {
+                self.location = site;
+            }
+        }
+    }
+	 
+</script>
+</body>
+</html>

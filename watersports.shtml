@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+
+</head>
+<body>
+  <div class='wrapper'>
+	<header>
+	  <!--#include file="nav1.htm"-->
+	  <!--#include file="slideshow.htm"-->
+	  <!--#include file="nav2.htm"-->
+	</header>
+	<h1 class='pagetitle'>Watersports</h1>
+	<div class='main'>
+	  <!-- MAIN CONTENT ===================================================== -->
+
+	  	<img src="images/waterskiing.jpg" class='imgC'>
+
+	  			<div class='share-bar'>
+					<span class='st_facebook_large' st_url="http://north-muskoka.com/watersports.shtml" displayText='Facebook'></span>
+      <span class='st_twitter_large' st_url="http://north-muskoka.com/watersports.shtml" displayText='Tweet'></span>
+      <span class='st_pinterest_large' st_url="http://north-muskoka.com/watersports.shtml" displayText='Pinterest'></span>
+      <span class='st_googleplus_large' st_url="http://north-muskoka.com/watersports.shtml" displayText='Google +'></span>
+      <span class='st_email_large' st_url="http://north-muskoka.com/watersports.shtml" displayText='Email'></span>
+      <script type="text/javascript">var switchTo5x=true;</script>
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+      </div>
+
+	  	<img src="images/kid_kayak.jpg" class='imgL' style='max-width:300px;'>
+
+		<img src="images/paddleboard.jpg" class='imgL' style='max-width:300px;'>
+
+	  	<p><strong>Water, water, everywhere!</strong></p>
+
+		<p>North Muskoka is synonymous with lakes, trees and granite outcroppings, but it&rsquo;s the lakes that are most favoured by summer visitors. Beautiful to look at and fun to play in, North Muskoka lakes are where many lasting memories are made.</p>
+		<p>So how many ways can you spend your days in or on the water in North Muskoka?</p>
+
+		<p>When you stay at the Resorts of North Muskoka, you have an abundance of family-friendly waterfront <a href="amenities.shtml">amenities and activities</a> to choose from.</p>
+
+		<p>Swimming is the most obvious way to play in the water. Jump off the dock, swim out to a raft or the inflatable water toys, or just wade out from the beach. North Muskoka&rsquo;s lakes are warm at water&rsquo;s edge and delightfully cool in deeper areas &ndash; the perfect way to cool off in the heat of summer.</p>
+
+		<p>You can also paddle a canoe, kayak or stand up paddleboard (SUP) near or far. Let the wind carry you in a sailboat or on a windsurfer. Peddle your way along the shore in a paddleboat. All of the Resorts of North Muskoka have some or all of these vessels available for guests to use free of charge.</p>
+
+		<img src="images/tubing_girls.jpg" class='imgR' style='max-width:300px;'>
+
+		<p>If you have a need for speed, feel the power of the water beneath your feet from behind a boat &ndash; waterski, wakeboard, wakesurf or go tubing. You might even get a lesson from your resort hosts!</p>
+
+		<p>If that all sounds like too much work, take a guided boat tour of the lake with your resort hosts and see the sights. Bring your camera and watch out for loons, herons, turtles and more!</p>
+
+		<p>Like to fish? Catch a lake trout, yellow perch or smallmouth bass from the dock or a boat. Or head for deeper waters in search of the more elusive northern pike. (Don&rsquo;t forget your fishing license, your resort owner can help you get one.)</p>
+		<p>And you can have just as much fun at water&rsquo;s edge. Try early-morning yoga on the beach or on the dock &ndash; either on your own or ask your hosts about classes with travelling instructors. Build a sandcastle with your kids (or on your own &ndash; we won&rsquo;t tell!). Play beach volleyball. Or just relax in a Muskoka chair and listen to the loons or the gently swelling surf.</p>
+
+		<p>In North Muskoka, it&rsquo;s easy to spend entire days enjoying the lakes. But don&rsquo;t forget about all of the other <a href="attractions.shtml">fun things to do</a> while you&rsquo;re here. Ask your resort hosts to recommend local attractions and points of interest.</p>
+
+		<p>A North Muskoka vacation is like nothing else you&rsquo;ll experience. Its pristine sparkling lakes are unforgettable and they&rsquo;ll make you want to return again and again.</p>
+
+		<img src="images/fishing_dad_daughter.jpg" class='imgC'>
+
+		<div style='clear:both;'></div>
+
+		<!--#include file="bottom_banner_ads.htm"-->
+
+
+	  <!-- END MAIN CONTENT ===================================================== -->
+	</div>
+	<!--#include file="footer.htm"-->
+	<script type="text/javascript" src='banner_ads.js'></script>
+</body>
+</html>

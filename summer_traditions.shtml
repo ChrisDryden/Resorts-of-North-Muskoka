@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!--#include file="head.htm"-->
+
+</head>
+<body>
+	<div class='wrapper'>
+		<header>
+			<!--#include file="nav1.htm"-->
+			<!--#include file="slideshow.htm"-->
+			<!--#include file="nav2.htm"-->
+		</header>
+		<div class='title'><img src="images/responsive/title-summer_traditions.jpg"><a href="resorts.shtml"><img src="images/resort-view-button.png" width="200" height="30" alt="view resorts" border="0" align="right" /></a></div>
+		<div class='main'>
+			<!-- MAIN CONTENT ===================================================== -->
+
+			<img src="images/responsive/summer4.jpg" class='imgC'>
+
+		<div class='share-bar'>
+			<span class='st_facebook_large' st_url="http://north-muskoka.com/summer_traditions.shtml" displayText='Facebook'></span>
+      <span class='st_twitter_large' st_url="http://north-muskoka.com/summer_traditions.shtml" displayText='Tweet'></span>
+      <span class='st_pinterest_large' st_url="http://north-muskoka.com/summer_traditions.shtml" displayText='Pinterest'></span>
+      <span class='st_googleplus_large' st_url="http://north-muskoka.com/summer_traditions.shtml" displayText='Google +'></span>
+      <span class='st_email_large' st_url="http://north-muskoka.com/summer_traditions.shtml" displayText='Email'></span>
+      <script type="text/javascript">var switchTo5x=true;</script>
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+      </div>
+
+			<span class='titles'>From our families to yours: creating traditions in North Muskoka</span>
+
+			<p>Lasting family memories often begin with a sense of place. Not many treasured family stories start “Remember that time at the mall when…” But a place that delights the senses, a place where you feel welcome and comfortable, is the perfect backdrop for creating memorable experiences for you and your children.</p>
+
+			<p>There’s good reason that Muskoka was listed in National Geographic’s book <a target='_blank' href="https://books.google.ca/books?id=wpnw-0pLK5YC&pg=PA88&dq=100+places+that+change+your+child%27s+life+muskoka&hl=en&sa=X&ei=-_AaVcWmE4TksAT14oLwDg&ved=0CB0Q6AEwAA#v=onepage&q=100%20places%20that%20change%20your%20child's%20life%20muskoka&f=false">100 Places That Can Change Your Child’s Life</a>. They note that our region “is a throwback to an earlier time when families just hung out with no agenda and didn’t rely on man-made amusements to distract them or their children.” It’s a place where simpler pleasures can be enjoyed without giving up all of the modern conveniences we’ve come to appreciate.</p>
+			
+			<p>The best way to discover Muskoka’s simple pleasures is the same as it is anywhere: get an insider’s perspective. And when you choose to stay at a family-owned cottage resort, that insider knowledge is right on your doorstep. Like the best place to maybe catch a glimpse of an elusive moose. A treasured fishing hole. Where to find wild blueberries in early summer or view the best colours in the fall. Its invaluable knowledge rarely found at larger, more corporate resorts.</p>
+			
+			<p>Some owners were former cottagers or visitors to the area. For others, the resorts they now run were the places they grew up, passed down through generations. For all of them, the cottage resorts within the Resorts of North Muskoka are now their homes. And that means you’re not just a guest. You’re like family. </p>
+			
+			<img src="images/responsive/summer5.jpg" class='imgR' style='max-width:400px;'>
+
+			<p>Almost all of the resorts have long histories, in some cases ones that span more than a century. But whether a resort has been in the same family for three or four generations or has newer owners who honour its storied past, one thing is certain: you’ll find a warm, family-friendly atmosphere at an affordable price.</p>
+			
+			<p>And it’s not just the resorts that have been handed down, like Cedar Grove Lodge or Bondi Village Resort that have been run by several generations of the same family. It’s also the knowledge and tradition that are passed through the generations that make these places special. At Tally-Ho Inn, for example, the same garden has been tended by three generations of the West family and has been feeding guests for 75 years. </p>
+			
+			<p>The spirit and enthusiasm with which the Resorts of North Muskoka welcome guests is one of many reasons families return year after year. So, too, is the ease with which you can spend quality time reconnecting with your own family. Let North Muskoka be your home away from home and discover just how quickly treasured family memories can be made.</p>
+
+			<img src="images/responsive/summer3.jpg" class='imgC'>
+
+			<div style='clear:both'></div>
+			
+			<!--#include file="bottom_banner_ads.htm"-->
+
+			<!-- END MAIN CONTENT ===================================================== -->
+		</div>
+		<!--#include file="footer.htm"-->
+		<script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>

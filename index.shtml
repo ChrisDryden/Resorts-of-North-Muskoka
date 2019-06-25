@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!--#include file="head.htm"-->
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<style type="text/css">
+		
+
+		.home_features {
+			position: relative;
+		}
+
+		.home_features .blank_slide {
+			width: 100%;
+		}
+
+		.home_features a img {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+		}
+
+		iframe {
+			width: 100%;
+			height: 460px;
+		}
+
+		#facebook-feed {
+			height: 280px;
+		}
+
+		.content-box {
+			display: inline-block;
+			vertical-align: top;
+			width: calc(50% - 15px);
+			margin: 5px;
+			padding: 0;
+		}
+
+		h2 {
+			font-weight: lighter;
+			font-family: 'Roboto', sans-serif;
+			color: #660000;
+			text-shadow: 1px 1px 2px white, -1px 1px 2px white, 1px -1px 2px white, -1px -1px 2px white;
+		}
+
+		.season-box hr {
+			height: 2px;
+			background: linear-gradient(to right, transparent,#404040,transparent);
+			border: none;
+		}
+
+		.season-buttons {
+			text-align: center;
+		}
+
+		.season-button {
+			width: calc(25% - 7px);
+			height: 65px;
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			display: inline-block;
+			vertical-align: top;
+			display: inline-block;
+			vertical-align: middle;
+			color: white;
+			text-shadow: 2px 2px 2px black;
+			font-size: 16pt;
+			padding-top: 35px;
+			box-shadow: 0 10px 10px -5px black;
+		}
+
+		.season-button:hover {
+			opacity: 0.7;
+		}
+
+		@media (max-width: 980px) {
+			.content-box {
+				display: block;
+				width: 100%;
+				max-width: 465px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+
+		@media (max-width: 600px) {
+			.season-button {
+				width: calc(50% - 7px);
+			}
+		}
+
+		@media (max-width: 400px) {
+			.season-button {
+				width: 100%;
+				display: block;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class='wrapper'>
+		<header>
+			<!--#include file="nav1.htm"-->
+			<!--#include file="slideshow.htm"-->
+			<!--#include file="nav2.htm"-->
+		</header>
+		
+
+		<div class='title'><img src="images/responsive/home-title.jpg"><a href="resorts.shtml"><img src="images/resort-view-button.png" class='imgR' style='position:relative;top:-10px;' /></a></div>
+		<div class='main'>
+			<!-- MAIN CONTENT ===================================================== -->
+
+<div class='season-box'>
+	<h2>Year-round Adventure</h2>
+	<p>Whether you love the outdoors or prefer to sit on a dock or by a cozy fire, the Resorts of North Muskoka have got you covered. With an abundance of onsite and offsite activities, events and attractions available for families, couples or groups of friends, a North Muskoka vacation has something for everyone. Click the links below to find your kind of adventure.</p>
+
+	<div class='season-buttons'>
+		<a href="summer-stories.shtml"><div style='background-image:url(images/home_summer.jpg);' class='season-button'>Summer</div></a>
+		<a href="fall-stories.shtml"><div style='background-image:url(images/home_fall.jpg);' class='season-button'>Fall</div></a>
+		<a href="winter-stories.shtml"><div style='background-image:url(images/home_winter.jpg);' class='season-button'>Winter</div></a>
+		<a href="spring-stories.shtml"><div style='background-image:url(images/home_spring.jpg);' class='season-button'>Spring</div></a>
+	</div>
+	<hr>
+</div>
+
+<div class='home_features content-box'>
+	<img src="images/feature/blank.png" class='blank_slide'>
+	<!-- <a href="http://www.beauview.on.ca/"><img src="images/feature/feature01.jpg"></a> -->
+	<a href="http://www.bluespruce.ca/"><img src="images/feature/feature02.jpg"></a>
+	<a href="http://www.bondi-cottage-resort.com/"><img src="images/feature/feature03.jpg"></a>
+	<a href="http://www.cedargrove.on.ca/"><img src="images/feature/feature04.jpg"></a>
+	<a href="http://www.clyffehouse.com/"><img src="images/feature/feature05.jpg"></a>
+	<a href="http://www.colonialbay.com/"><img src="images/feature/feature06.jpg"></a>
+	<a href="http://www.luminaresort.com/"><img src="images/feature/feature09.jpg"></a>
+	<!-- <a href="http://www.norsemen-walkerlake.com/"><img src="images/feature/feature10.jpg"></a> -->
+	<a href="http://www.portcunnington.com/"><img src="images/feature/feature11.jpg"></a>
+	<!-- <a href="http://powwowpointlodge.com/"><img src="images/feature/feature12.jpg"></a> -->
+	<a href="http://tallyhoinn.ca/"><img src="images/feature/feature13.jpg"></a>
+	<a href="http://www.algonquinparkaccommodations.com/"><img src="images/feature/feature14.jpg"></a>
+</div>
+
+<div class='content-box'>
+
+	<h2 style='margin-top:0;'>The Magic Of Cottage Resorts</h2>
+	<p>Guests return to North Muskoka every year, generation-after-generation. Why? There's something about the combination of relaxed fun, family time and our natural beauty that creates magical experiences and lasting memories. Watch and see what your North Muskoka vacation could be.</p>
+	<iframe src="https://www.youtube.com/embed/eOSRkOobJEE?rel=0&amp;controls=0&amp;" frameborder="0" allowfullscreen style='height:285px;'></iframe>
+
+	<span class='st_facebook_large' st_url="https://www.youtube.com/watch?v=eOSRkOobJEE" displayText='Facebook'></span>
+	<span class='st_twitter_large' st_url="https://www.youtube.com/watch?v=eOSRkOobJEE" displayText='Tweet'></span>
+	<span class='st_pinterest_large' st_url="https://www.youtube.com/watch?v=eOSRkOobJEE" displayText='Pinterest'></span>
+	<span class='st_googleplus_large' st_url="https://www.youtube.com/watch?v=eOSRkOobJEE" displayText='Google +'></span>
+	<span class='st_email_large' st_url="https://www.youtube.com/watch?v=eOSRkOobJEE" displayText='Email'></span>
+	<script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+
+</div>
+
+<div class='content-box'><h3 style='color:#3b5998;background-color:white;margin-bottom:0;padding:5px;'>Facebook</h3><iframe id='facebook-feed' src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FResortsNorthMuskoka&width=450&colorscheme=light&show_faces=true&border_color&stream=true&header=false&height=400" scrolling="yes" frameborder="0" style="border:none; background: white;height:400px;" allowtransparency="true">
+</iframe></div>
+
+<div class='content-box'>
+	<h2>Gateway to Algonquin Park!</h2>
+
+	<ul class="bullets" style='padding-left:15px;'>
+		<li>Muskoka vacation accommodation properties in Lake of Bays</li>
+		<li>Accommodations only minutes from Algonquin Provincial Park</li>
+		<li>Muskoka Ontario cottage rentals</li>
+		<li>North Muskoka lodge and resort directory featuring family vacation packages and couples getaways</li>
+		<li><a href="weddings.shtml">Muskoka wedding and conference locations</a></li>
+		<li><a href="amenities.shtml">Detailed attribute chart of Muskoka Ontario participating resorts &amp; lodges</a></li>
+	</ul>
+
+	<!-- Place this tag where you want the +1 button to render -->
+	<g:plusone annotation="inline" width="180"></g:plusone>
+
+	<!-- Place this render call where appropriate -->
+	<script type="text/javascript">
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+
+</div>
+
+<H2>North Muskoka, Ontario Resorts &amp; Tourism</H2>
+
+<p>
+Muskoka is widely recognized as one of Canada's most popular vacation spots. The <a href="http://www.north-muskoka.com/history.shtml" class="links">North Muskoka</a> area has been welcoming tourists for more than a century and is best known for its beauty, nature and history. Attracting visitors from around the world, <a href="http://www.north-muskoka.com/attractions.shtml" class="links">Algonquin Park</a> is in the backyard of North Muskoka. It a great place to explore, relax and enjoy magnificent scenery made famous by Canada's very own Group of Seven artists.
+</p>
+
+<p>
+The Resorts of North Muskoka welcomes you to an <a href="http://www.north-muskoka.com/places.shtml" class="links">Ontario</a> vacation playground that has been captivating visitors for generations. Our lakeside lodges, luxurious inns and housekeeping cottage resort properties are located on large and prestigious lakes like Peninsula Lake and The Lake of Bays, and on Muskoka's smaller jewels, like Oxtongue Lake and Walker Lake. There is a North Muskoka resort that is exactly right for any family holiday, romantic couple's escape, resorts conference, and for the ultimate Muskoka wedding. Regardless of your interests you'll find lots to do here in North Muskoka. There are a variety services and <a href="http://www.north-muskoka.com/attractions.shtml" class="links">attractions</a> to make your stay safe and enjoyable. You choice of places to stay ranges from historic country inns to family oriented cottage resorts, all nestled amongst the serene beauty of the North Muskoka landscape.
+</p>
+
+<p>
+<img src="images/home3.jpg" alt="campfire" align="right" hspace="10" />
+Muskoka has long been regarded as Canada's premier vacation destination in cottage country. In 2011, Muskoka, Ontario was chosen by National Geographic Traveler Magazine as their pick for top vacation destination in the world, beating out other popular tourist destinations like Patagonia, the Azores and Glacier Bay National Park. Now the rest of the world knows what the people of southern Ontario and the northern states have known for years- that Muskoka is a fabulous Ontario vacation area, offering something for everyone. North Muskoka resorts are proud that their beautiful region has been honoured by National Geographic and chosen best vacation area in the world. To get the most out of any Muskoka vacation, plan to stay at a North Muskoka resort, where the beauty of Muskoka can be found in abundance.
+</p>
+
+<p>
+North Muskoka, a place where the air is fresh and clean, the waters are pristine and nature surrounds you. It's magical here. The tranquility of forest walks, the excitement of trying waterskiing for the first time, the charm of our towns and villages, roaring waterfalls and roasting marshmallows over an open fire next to the lake and under star filled skies.
+</p>
+			
+<h2>North Muskoka Today</h2>
+
+<p>
+<img src="images/home2.jpg" alt="fishing" align="right" hspace="10" />
+North Muskoka still retains the unique heritage and nostalgia of days gone by. With today's hectic pace everyone deserves the opportunity to unwind and North Muskoka specializes in resort properties that haven't forgotten that resort accommodation means more than just a place to sleep - but rather a chance to escape and rejuvenate your senses in a natural and relaxing environment bordering Algonquin Park. All the conveniences - twice the charm! Join us in North Muskoka!<br>
+<br>
+Come and visit us, enjoy our hospitality and discover the treasure of North Muskoka.
+</p>
+
+<table border="0" cellspacing="20" cellpadding="0" align='center'>
+	<tr>
+		<td><img src="images/ExplorersEdge_logo.png" width="140" height="114" alt="Explorers Edge" /></td>
+		<td><img src="images/Trillium-logo.png" width="160" height="52" alt="Trillium Logo" /></td>
+	</tr>
+</table>
+
+<!-- <p>
+Muskoka, Ontario is known throughout North America as Ontario's premier cottage country destination. In 2010, North Muskoka received significant international attention when leaders from around the world came together in Huntsville, Ontario to participate in the 2010 Muskoka G8 Summit. While Muskoka has developed somewhat of a reputation as a celebrity holiday hot spot where the rich and famous go to relax and enjoy the area's many natural splendors, North Muskoka is by no means elitist. It's a casual, family friendly tourist destination that offers a wide variety of fabulous lakeside accommodations to fit any budget.
+</p>
+
+<p>
+The hardest part of booking your North Muskoka vacation may very well be deciding where to stay. The many wonderful resorts, inns, lodges and housekeeping resorts of North Muskoka offer a wide variety of vacation accommodations, each with its own unique attributes and advantages, but all entirely suitable for a fabulous getaway in Muskoka. There is a North Muskoka accommodation property that is perfect for any visitor coming to Ontario's premier cottage country destination. While a great holiday in Muskoka can be assured for families, couples, and seniors at virtually any of our North Muskoka resorts, including our lakeside lodges, inns and cottage resorts, consider which style of accommodation property might be best for your North Muskoka vacation.
+</p>				
+
+<p>
+<img src="images/home1.jpg" width="200" height="150" alt="paddling" align="right" hspace="10" />
+For family vacations, fishing weekends and family retreats, consider reserving a private housekeeping cottage at one of our many friendly cottage resorts in North Muskoka. At a cottage resort, guests have the option of preparing their own meals. Most cottage resorts are very family friendly and offer a casual and relaxed vacation experience that can be economical as well.  For weddings, corporate retreats and conventions, an excellent accommodation choice would be a North Muskoka full service resort or lakeside lodge. Resorts, large inns and full service lodges can accommodate larger groups. They offer more services, facilities and <a href="http://www.north-muskoka.com/amenities.htm" class="links">amenities</a> than most cottage resorts and small inns. The perfect choice for a couples weekend, a quiet midweek vacation or a luxurious Ontario getaway, may be an intimate North Muskoka country inn that provides gourmet meals and plenty of charm for romantic couples looking to be pampered.
+</p>
+
+<p>
+Consider North Muskoka for your next group event, company retreat, business conference or meeting. There are a number of fine North Muskoka lodges and resorts that offer conference and meeting facilities, along with comfortable accommodations and superb <a href="http://www.north-muskoka.com/attractions.htm" class="links">dining</a> to satisfy everyone in your group. Providing a peaceful environment for business or pleasure, a group event or corporate function held at a Muskoka resort allows your staff to get down to business, and then, after the work day is done, everyone can relax, unwind and enjoy the many recreational facilities and amenities that a North Muskoka lakeside inn or lodge can offer. For family reunions, golf tournaments, or to celebrate a special milestone or occasion, there is no better place to hold a group event or a celebration with family and friends than at a North Muskoka resort in the heart of cottage country. Whether you chose an intimate cottage resort to host your group event in Muskoka, or you prefer to hold your special function at one of North Muskoka's fine inns or lodges, you can be assured of friendly service, plenty of things to do and beautiful scenery that is second to none. When booking multiple rooms or cottages, be sure to reserve early to avoid disappointment. Muskoka resort innkeepers will be happy to help you plan your group event at their accommodation property and can suggest activities and things to do in the area to keep your group 100% satisfied.
+</p>
+
+<p>North Muskoka is an ideal place to hold a destination wedding on Ontario. Within a few hours' drive of the GTA, North Muskoka is just far enough away to make it feel like a  total escape from the ordinary, yet convenient for your guests to enjoy your special day with you, as well as partake in a fun and economical mini-vacation in cottage country. A practical alternative to having a far away sun and sand destination wedding where many of your guests may be unable to afford the high cost of travel and the time commitment required to attend. For many people, some of their fondest memories are of their summers spent on vacation with family and friends by the lake in Muskoka; while at the cottage or while staying at a Muskoka lodge, inn or resort. If the time you spent in cottage country holds a special place in your heart, why not consider holding your wedding in North Muskoka?</p>
+<p>
+Whether you are contemplating an elegant formal wedding or a small casual affair, there is a North Muskoka lakeside resort, inn or lodge that would make the perfect venue for your destination wedding in cottage country. Some North Muskoka <a href="http://www.north-muskoka.com/resorts.htm" class="links">resorts</a>, inns and lodges offer banquet facilities with full food services, and can handle all of your wedding details. Should you wish to hold your wedding at a resort without food services available, there are many fine catering companies in Muskoka to choose from. As well, all of your other wedding arrangements can be made conveniently with area businesses that specialize in <a href="http://www.north-muskoka.com/weddings_reunions.htm" class="links">weddings</a>, including flowers, entertainment, cake, rentals and beauty services; everything necessary to hold your dream wedding. Whether you chose a family friendly cottage resort or at a full service inn, you can be guaranteed spectacular scenery for your wedding photos, a friendly relaxed atmosphere and a truly special event that family and friends will not soon forget. For more information about cottage country wedding, <a href="http://www.north-muskoka.com/contact.htm" class="links">contact</a> one of our fine North Muskoka accommodation properties to learn how easy it is to have a destination wedding celebration in North Muskoka.</p>
+<p>
+Resplendent with pristine natural beauty, Muskoka North has so much going for it, and there's a wealth of things to do for any visitor to this exciting Ontario tourist destination. Muskoka is home to some the finest attractions and annual events in Ontario. Muskoka events and attractions draw visitors to the area for day trips, weekend getaways and for week-long holidays in Muskoka. Every month of the year you will find something of interest happening in North Muskoka. Popular annual events such as country fairs and studio tours in the fall, music and arts festivals in the summer, maple syrup festivals in the spring and snow carnivals and ice races in the winter, bring many visitors to Ontario's favorite vacation area. No matter what time of year you chose for your North Muskoka getaway, you will find plenty to do.
+</p>
+
+<p>
+<img src="images/home4.jpg" width="200" height="150" alt="archery" align="right" hspace="10" />
+Within North Muskoka you will discover numerous trails, parks, abundant lakes and rivers that invite a wide range of recreational opportunities and outdoor sports and outdoor activities. A treasure trove of natural wonder, North Muskoka is a vacation destination that will thrill virtually any outdoor sports enthusiast or naturalist. North Muskoka draws all those that love the great outdoors.  The region's many parks and public wilderness areas provide wildlife photographers, artists, hikers, fishermen, mountain bikers, canoeists and bird watchers with abundant opportunities to enjoy their passion. Many North Muskoka resorts offer special <a href="http://www.north-muskoka.com/packages.htm" class="links">vacation packages</a> that cater to specific interests, hobbies and activities. Look for North Muskoka getaway packages like Muskoka bird watching weekends, Muskoka photography getaways, and Muskoka fishing packages, to name just a few.
+</p>
+
+<p>
+With some of the best <a href="http://www.north-muskoka.com/attractions.htm" class="links">golf</a> courses in the country, Muskoka is a very popular Ontario golf vacation destination and is considered by many as the premier golf destination in Ontario. Muskoka's landscape of rugged Canadian Shield, majestic pine forests, and large sparking lakes combine to create the ideal backdrop for a golf experience like no other. From wallet-friendly par 3 courses for families and beginners, to awe inspiring championship courses that test the skills of the most avid golfer, Muskoka, Ontario has a wide variety of scenic golf courses to suit any skill level. For the serious golfer looking for the ultimate golf experience there are several first class challenging courses like the Bigwin Island Golf Club, Taboo Golf Course and the Rock Golf Club, to name just a few.  For amateurs and for families on a Muskoka vacation there are dozens of Muskoka golf courses where you can enjoy a casual round of golf while on holiday in Muskoka. Our North Muskoka resorts are ideally situated, right in the middle of the all action, and offer a wide array of accommodations for the ultimate Muskoka golf getaway.
+</p>		
+
+<p>
+Although Muskoka is a popular golf destination with several stunning championship courses, North Muskoka is also a favorite Ontario vacation destination for families. Along with many family-friendly golf courses and driving ranges, North Muskoka boasts a broad range of fun and exciting recreational activities that will keep both adults and children thoroughly entertained, including go-cart racing, laser tag and paintball, mini golf, water parks, summer camps, skiing and snowboarding, tobogganing, guided walking tours and airplane tours. There is always something fun to do in North Muskoka, every month of the year.
+</p>
+
+<p>
+Offering a wide variety of affordable lakefront resort accommodations including <a href="http://www.north-muskoka.com/places.htm" class="links">cottage rentals</a>, romantic lodge suites and Ontario resorts accommodations, the resorts of North Muskoka welcome you to Ontario's favorite holiday destination. We promise to do our best to ensure that your Muskoka vacation with us is a truly memorable one. For family vacations, ski holidays, wilderness adventures and romantic couples getaways, North Muskoka has the perfect accommodation property for those who wish to enjoy a fabulous North Muskoka vacation.
+</p>
+
+<p>
+Here in North Muskoka and the Lake of Bays region, you will find that we have made it really easy for you to get out and enjoy the great outdoors and all it has to offer. For example, we boast over 40 area trails. With that many <a href="http://www.north-muskoka.com/seasons.htm" class="links">wilderness trails</a> there is sure to be one close by. Our North Muskoka trails range from short walking trails to challenging trails that run over 40 kilometres in one direction.  Many of our trails are open all year and some are seasonal. We have dedicated trails and trails that are multi use. Whether you enjoy Nordic skiing, biking, hiking, snowshoeing, poling, snowmobiling, atving or just strolling through the woods, there is a terrific Muskoka trail just waiting for you.
+</p>
+
+<p>
+In the North Muskoka area, you will find several Ontario provincial parks, including Arrowhead Provincial Park, Big Wind Provincial Park, Hardy Lake Provincial Park, Ragged Falls Provincial Park, and the most famous Ontario Provincial Park of all, Algonquin Park. Each of these parks is unique and provides visitors to Muskoka with a variety of recreational opportunities and hundreds of trails. As well, the Huntsville and Lake of Bays area has dozens of smaller parks and public beaches that offer places to stop and relax, to have a picnic or take a swim. Avery Beach, Dwight Beach, Dorset Fire Tower, Hutcheson Beach, Lion's Lookout, Lake of Bays Park, Port Sydney Beach, Oxtongue Rapids Park, Tally Ho Beach, and the Locks Park are just some of the many beaches and parks in North Muskoka.
+</p>
+
+<p>
+Every year, Algonquin Provincial Park welcomes more than one million visitors, making it is one of Canada's most popular tourist attractions and very important to North Muskoka's tourism industry . The first provincial park in Ontario, Algonquin is also Ontario's largest, covering over 7,700 square kilometres of spectacular wilderness that includes 2,400 lakes and 1,200 kilometres of rivers and streams. Diverse in terrain and offering something for everyone to enjoy, the Park's principle mandate is to protect and conserve the area's natural wilderness and cultural heritage for the benefit of all. Home to an incredible number of different plant and animal species, including large populations of moose, bear, deer and wolves, there is always something to see in Algonquin Park. Along with its many marked trails for hiking and biking, visitors to Algonquin Park are sure to enjoy the Algonquin Visitors Centre, the Algonquin Art Centre and the Algonquin Logging Museum. During your stay at one of any one of our fine North Muskoka resorts, inns and lodges, be sure to take the time to visit the Park. It is a great North Muskoka attraction that offers something of interest for everyone, making it the perfect day trip for families on vacation, active couples and nature and <a href="http://www.north-muskoka.com/gallery.htm" class="links">wildlife</a> enthusiasts.
+</p>
+
+<p>
+The Algonquin Visitors Centre, located along the Park's main corridor at kilometre 43, is an impressive structure that was built to celebrate Algonquin's 100 year anniversary in 1993. The centre houses many interesting natural, cultural and historical displays and world class exhibits that inform and educate the public about Algonquin Park's fascinating history. The Algonquin Room is the Visitors Centre's art gallery that houses art collections and hosts special events. The centre also contains a theatre, gift shop/bookstore, snack bar and seasonal restaurant.
+</p>
+
+<p>
+The Algonquin Art Centre is an exceptional art gallery within the Park that showcases many important and influential Canadian wildlife painters and landscape artists. Its collection celebrates the history of artists in Algonquin Park, with special emphasis on the contribution made by the Group of Seven. Along with world renowned artists like Tom Thomson and Robert Bateman, new works by many of Canada's up and coming artists are also on display at the Centre.  While enjoying your North Muskoka getaway, you may wish to visit this outstanding educational Ontario tourist attraction. It is open seasonally; June through Thanks giving.
+</p>
+
+<p>
+Another interesting Algonquin Park attraction is located just inside the east gate at kilometre 55, is the Algonquin Park Logging Museum.  Entertaining and educational, the Logging Museum, which opened in 1992, showcases the history of the logging industry in Ontario, especially in Algonquin Park. It explores the important role logging once played in the North Muskoka area. A tour of the Logging Museum begins with an informative film presentation. Then, take an easy to walk 1.5 km trail to the replica caboose logging camp, complete with a steam-powered amphibious tug, logging equipment and interpretive displays. The Algonquin Logging Museum is opened seasonally and is a wonderful attraction for families to visit while on vacation in North Muskoka.
+</p>
+
+<p>
+People come to North Muskoka to take pleasure in the many recreational opportunities to be found in this popular Ontario cottage country destination and its spectacular beauty and natural wonders. Whether you enjoy a challenging hike through untamed wilderness or a casual walk on a well-marked path, you will be pleased to find countless trail systems, paths and walkways in North Muskoka. For the real adventurers, Algonquin Park has three backpacking trails that are up to 88 km long. The Park also has many much shorter trails along the Highway 60 corridor that range in length from 1 km to 10km. You can pick up an Algonquin Park trail guide to learn more about each of the trails and find which ones are right for you. For North Muskoka visitors, Algonquin Park has 19 interpretive walking trails that are suitable for day trips. Each of these trails were planned to highlight and examine a different aspect of Park life. All of the trails have their own trail guide booklets that are available at the trailheads in the late spring through early fall. Some of the most popular interpretative walking trails include the Whiskey Rapids Trail - a 2.1 km loop trail along the Oxtongue River that explores the ecology and <a href="http://www.north-muskoka.com/history.htm" class="links">history</a> of the area , The Brent Crater Trail – a 2 km loop near Cedar Lake that features the famous Brent meteorite crater, The Jack Pine Trail – a 1.6 km trail to where Tom Thomson created his iconic painting The Jack Pine, and Mizzy Lake Trail - an all day, 11 km trail that visits many ponds, lakes and offers many opportunities to see park wildlife.
+</p>
+
+<p>
+For the best Ontario cottage country vacation, our many fine accommodation properties in North Muskoka have so much to offer. North Muskoka is less than a two and one half hour drive from Toronto, but you will quickly see that it's an entirely different world up here. Peaceful and quiet, with breathtaking natural <a href="http://www.north-muskoka.com/gallery.htm" class="links">scenery</a> that is second to none, you will know when you have reached North Muskoka when you see cliffs of pink granite, sparking blue lakes and towering forests of green. North Muskoka includes the towns of Huntsville,  Baysville, Dorset, Port Sydney, Lake of Bays and Dwight, and extends in the east over to Algonquin Park.
+</p>
+
+<p>
+One of the nicest times to visit North Muskoka is during the fall months. In North Muskoka, the autumn colours are brilliant. The region's abundant forests are ablaze with breath-taking displays of vivid reds, oranges and yellows.  North Muskoka is considered to be one of the best areas to take an Ontario fall colours tour.  For an unforgettable experience, climb the Dorset Scenic Lookout Tower.  The observation tower rises 143 metres above the Lake of Bays, offering a spectacular view of the areas lakes and forests. While touring the area this fall, be sure to look out for a variety of North Muskoka fall events, including studio tours and fall fairs. Many North Muskoka resorts offer special fall rates and terrific resort packages, as well as last minute packages. While some of our member North Muskoka <a href="http://www.north-muskoka.com/amenities.htm" class="links">resorts</a> close for the winter season, when the Thanksgiving weekend has ended, and remain closed until mid-May, just in time for the Victoria Day weekend, most North Muskoka resorts remain open for business throughout the year. While the month of November and the early weeks of December are generally a very quiet time here in cottage country, it is a time ideally suited for a peaceful and relaxing North Muskoka getaway for couples, seniors, or anyone who enjoys crisp clean air and the stark beauty of Ontario's natural landscape in the late fall. Enjoy a wilderness walk, explore a nearby North Muskoka town, or simply relax by the fire.
+</p>
+
+<p>
+While the late fall is a great time of year to enjoy an Ontario vacation getaway in North Muskoka, it is also the time to book your Christmas week vacation or New Years resort getaway at one of North Muskoka's four-season resorts, inns or lodges.  Christmas is a magical time in North Muskoka. With crisp cold days, still starry nights and a blanket of fresh clean snow that covers the landscape, Muskoka transforms into a winter wonderland, and the perfect environment to celebrate the winter holidays with friends and family. Many of our year-round accommodation properties have guests that return year after year, for Christmas holidays or New Years, and consider their Muskoka winter holiday a cherished tradition.
+</p>
+
+<p>
+During the winter months, the North Muskoka area can generally count on receiving an abundant amount of snow that falls reliably throughout the <a href="http://www.north-muskoka.com/seasons.htm" class="links">season</a>. This ensures visitors planning a Muskoka winter vacation a dependable snow base to enjoy all of their favorite winter sports. Only 90 minutes from Toronto, but a world away, North Muskoka is the ideal location for an Ontario resort winter getaway. For those seeking an active holiday adventure, there is so much to do here, including Nordic skiing, snowshoeing, skating, ice fishing, dog sledding, tobogganing, sleigh rides, snowmobiling, downhill skiing, snowboarding, pond hockey and a whole lot more.
+</p>
+
+<p>
+Hidden Valley Highlands Ski Area, located just outside of Huntsville on Highway 60, offers several Alpine ski and snowboard runs, with something for everyone and every skill level; from beginner's hills for the novice skier, to expert runs for the seasoned skier or snowboarder looking for some extreme skiing or snowboarding excitement. During the winter months, even when there is no snow on the ground in Toronto, the GTA and the rest of southern Ontario, you can usually expect to find a thick blanket of snow at this popular Muskoka ski area. A fun day on the slopes is only a short drive away from many of our fine winter resorts in North Muskoka.
+</p>
+
+<p>
+Arrowhead Provincial Park, a popular North Muskoka attraction throughout the year, also offers visitors plenty of fun wintertime activities that are suitable for every member of the family. Located close to Huntsville, Ontario, Arrowhead Provincial Park boasts 29km of groomed cross-country ski trails and 12km of skate trails. The Park also has 6km of marked snowshoe trails, an ice-skating rink and a tubing hill. Everything you need to enjoy a day's worth of activities is available at the fully stocked pro shop including waxes, gloves, clothing, hot chocolate and a complete line of reasonable priced equipment rentals.
+</p>
+
+<p>
+An Ontario winter vacation in North Muskoka offers visitors so much to see and do. Winter is an enchanted time of year in cottage country with cold starry nights, frozen lakes, and a beautiful thick blanket of white snow that is perfect for making snowmen or for skiing on freshly groomed cross country trails and downhill ski runs. After an invigorating day of ice-skating, snowshoeing, ice fishing, dog sledding, or simply enjoying the winter scenery that is picture postcard perfect, return to your cozy housekeeping cottage, suite or room to sit by the fire, relax in a hot tub or enjoy a great meal, either at the resort or at a nearby restaurant. People come to North Muskoka to enjoy the great outdoors, especially during the winter months. An Ontario winter  vacation in North Muskoka can be as exhilarating or as relaxed as you desire.  Whether your favorite winter sport is ice-fishing, snow shoeing, skating, skiing, tobogganing, tubing, dog sledding, snowmobiling , you can keep busy all day long here, or,  you can choose to do precisely nothing but sit by the fire and take pleasure in the amazing winter scenery at your North Muskoka resort.  Whatever your activity level, a winter break in North Muskoka is a sure fired way to beat the winter blahs and return home refreshed and rejuvenated.
+</p>
+
+<p>For generations, Muskoka has been Ontario's favorite vacation <a href="http://www.north-muskoka.com/attractions.htm" class="links">destinations</a> in cottage country. Over the past several years, the area has also developed an international reputation as one of the top tourist destination vacation areas world-wide. Lauded by National Geographic magazine in 2011 as one of the best worldwide vacation destinations, Muskoka continues to grow and thrive, offering more attractions and things to do than ever before. The area's natural beauty, large clean lakes and unspoiled wilderness that have made the area famous, continues to be protected and preserved. The resorts of North Muskoka offer the best of both worlds - a quiet, less hectic location in beautiful Muskoka that is close to many nearby Muskoka attractions and events.</p>
+
+<p>North Muskoka is Ontario's year-round playground, attracting visitors from Toronto, the GTA, southern Ontario and the northern states. Muskoka has also become very popular with tourists visiting Canada from abroad.  Visitors to Canada from Europe, Asia, and Australia, quite often fly in to start their vacation in Toronto to explore this vibrant city, and from there, travel to other places of interest in the province. Muskoka has garnered world-wide attention as one of  National Geographic's top places in the world to vacation. Muskoka's reputation as a great Ontario vacation area and its short driving distance from Toronto, make it an ideal destination for foreign visitors who want to spend a few days or more experiencing the majestic Canadian wilderness.</p>
+
+<p> While on a weekend getaway or family vacation during your stay at one of our many fine North Muskoka resorts, make sure to find the time to visit the picturesque village of Dorset, Ontario. This pretty little town, located between Muskoka and Haliburton on the Lake of Bays, boasts a number of restaurants, galleries and shops, including Robinson's General Store. Voted "the best country store in Canada", Robinson's Store is a fun place to explore as it carries an astounding variety of merchandise from groceries and hardware to giftware and clothing. Another Dorset attraction is the Dorset Heritage Museum and the newly restored S.S. Bigwin Steamship. One of the most famous tourist attractions in North Muskoka is the Dorset Observation Tower. This famous Ontario cottage country landmark, once a working fire tower, is located on a steep hill that stands 82 feet tall, towering over Dorset Village and the Lake of Bays. The view from atop the tower is simply breathtaking. Here you can see for miles; observing 360 degree vistas of majestic North Muskoka forests, lakes, and towns. The tower is open to the public from May through October, and it is especially popular during the fall months when the Muskoka fall colours are at their peak.</p>
+
+<p>The vibrant and bustling town of Huntsville, the largest community in the Muskoka Lakes region is located in the heart of North Muskoka. For well-over one hundred years, Huntsville has been charming Ontario cottage country visitors with its historic main street and picturesque lakeside local. Huntsville is a town of lakes and waterways; with Fairy Lake, Lake Vernon and Mary Lake located within its boundaries, the Muskoka River winding through it, and Peninsula Lake, Lake of Bays and Skeleton Lake on its outskirts. This popular resort town offers tourists many things to see and do while on their Muskoka vacation, with a wealth of attractions, shops, restaurants, galleries and special events throughout the year. Rich in history, this attractive Ontario tourist town makes the most of its storied past and proud pioneer heritage. As visitors walk the streets of Huntsville they are sure to notice the many large murals painted throughout the town that recreate some of Tom Thomson and members of the Group of Seven's most famous and best loved paintings. The Group of Seven Outdoor Gallery mural project celebrates these famous Canadian artists and their contribution to art in Canada and the heritage of the Huntsville, Lake of Bays and the Muskoka region. The Huntsville Chamber of Commerce provides a guide for those interested in an informative walking tour of the murals.</p>
+
+<p>Those on a North Muskoka family vacation will want to set aside some time to explore Huntsville's Muskoka Heritage Place, an educational attraction that tells the history of Muskoka through extensive displays and costumed guides who demonstrate what life was like in the 1800s. This popular Muskoka attraction offers something of interest to every member of the family and features the Muskoka Museum, Muskoka Pioneer Village with 18 restored pioneer building, and the Portage Flyer Train, an authentic open-air train.</p>
+
+<p>Visitors to North Muskoka are sure to be impressed with the extensive variety of art and entertainment opportunities that can be enjoyed throughout the year in the region. Open year-round, The Algonquin Theatre in Huntsville is a performing arts pavilion that runs a full program; presenting an extensive and diverse selection of exciting live music performances, plays, film and theatrical presentations. Located in the Huntsville Civic Centre, the Algonquin Theatre hosts shows by local performance artists and well-known international entertainers like John McDermott and Blue Rodeo. To see what's on during your vacation in North Muskoka , visit the Algonquin Theatre website.</p> -->
+
+			<!-- END MAIN CONTENT ===================================================== -->
+		</div>
+		<!--#include file="footer.htm"-->
+	<script>
+$(document).ready(function(){
+
+	var slideCnt = $('.home_features a img').length;
+	var randInd = Math.floor((Math.random() * slideCnt-1) + 1);
+
+	$('.home_features a img').hide();
+	$('.home_features a img:eq(' + randInd + ')').show();
+
+	//CHANGE INTERVAL TIMING HERE
+	var timing = 4000;
+
+	var slideIndex = randInd;
+
+	//Show/hide slides in slider
+	setInterval(function(){
+		$('.home_features a img').eq(slideIndex).fadeOut(1000);
+		//alert(slideIndex);
+		slideIndex++;
+
+		//loop slide index back around to first one
+		if (slideIndex == $('.home_features a img').length) {
+			slideIndex = 0;
+		}
+
+		$('.home_features a img').eq(slideIndex).fadeIn(1000);
+		//alert(slideIndex);
+	},timing);
+});
+	</script>
+</body>
+</html>

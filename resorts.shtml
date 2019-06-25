@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+
+  <style type="text/css">
+  	.main {
+  		text-align: center;
+  	}
+
+  	.resort-listing {
+  		text-align: left;
+  		display: inline-block;
+  		max-width: 400px;
+  		margin: 10px;
+  		background-color: white;
+  		vertical-align: top;
+  	}
+
+  	.resort-listing img {
+  		float: left;
+  		margin-right: 10px;
+  		margin-bottom: 10px;
+  	}
+
+  </style>
+
+<script type="text/javascript"> 
+function recordOutboundLink(link, category, action) { 
+_gat._getTrackerByName()._trackEvent(category, action); 
+setTimeout('document.location = "' + link.href + '"', 100); 
+} 
+</script> 
+
+</head>
+<body>
+
+  <div class='wrapper'>
+    <header>
+      <!--#include file="nav1.htm"-->
+      <!--#include file="slideshow.htm"-->
+      <!--#include file="nav2.htm"-->
+    </header>
+    <div class='title'><img src="images/responsive/visit-title.jpg"></div>
+    <div class='main'>
+      <!-- MAIN CONTENT ===================================================== -->
+<script>
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+     function () {
+     document.location = url;
+     }
+   });
+}
+</script>
+<a href="http://www.north-muskoka.com" onclick="trackOutboundLink('http://www.north-muskoka.com'); return false;">Check out north-muskoka.com</a><br>
+<br>
+
+			
+				    <div class='resort-listing'>
+		    	<img src="images/resorts/bsr-web.jpg" alt="Blue Spruce" />
+		    	<strong>Blue Spruce Resort</strong> - A 4 seasons Housekeeping Resort on Oxtongue Lake. Algonquin Park only 5 minutes away. Our cottages, studios &amp; suites are ... "a step above". <a href="http://www.bluespruce.ca/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.bluespruce.ca']);">[view]</a>
+  			</div>
+		    
+		    <div class='resort-listing'>
+		    	<img src="images/resorts/bvr-web.jpg" alt="Bondi Village" />
+		    	<strong>Bondi Village Resort</strong> - One of the original family resorts on Lake of Bay. Our 13 cottages are  reasonably priced, comfortably equipped and spread along 1800 feet of sandy shoreline. <a href="http://www.bondi-cottage-resort.com/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.bondi-cottage-resort.com']);">[view]</a>
+		    </div>
+		    
+			<div class='resort-listing'>
+			    <img src="images/resorts/cgl-web.jpg" alt="Cedar Grove" />
+			    <strong>Cedar Grove Lodge</strong> - An eco-friendly lakeside resort located on beautiful Peninsula Lake. We offer individual lakeside cottages, many of them log, all with wood burning fieldstone fireplaces. All rates include three meals per day. <a href="http://www.cedargrove.on.ca/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.cedargrove.on.ca']);">[view]</a>
+	  		</div>
+  			<div class='resort-listing'>
+			    <img src="images/resorts/chr-web.jpg" alt="Clyffe House" />
+			    <strong>Clyffe House Cottage Resort</strong> - Featuring 2,3,4 and 5 bedroom housekeeping cottages with 100 acres on beautiful Mary Lake. Over 80% repeat business for 32 years. <a href="http://www.clyffehouse.com/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.clyffehouse.com']);">[view]</a>
+		    </div>
+		    <div class='resort-listing'>
+			    <img src="images/resorts/cbr-web.jpg" alt="Colonial Bay" />
+			    <strong>Colonial Bay Resort</strong> - Family vacation memories made here! Swimming, sandcastles, kayaking, water trampoline all before lunch. BBQ lunch on the deck of our private cottage. <a href="http://www.colonialbay.com/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.colonialbay.com']);">[view]</a>
+			</div>
+		    
+		    <div class='resort-listing'>
+			    <img src="images/resorts/lur-web.jpg" alt="Lumina" />
+			    <strong>Lumina Resort</strong> - Family oriented full service resort located on Lake of Bays. One to five bedroom cottages, also separate rooms in the main lodge. Rates include full breakfast and dinner daily. <a href="http://www.luminaresort.com/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.luminaresort.com']);">[view]</a>
+		    </div>
+
+		    <div class='resort-listing'>
+			    <img src="images/resorts/pcl-web.jpg" alt="Port Cunnington" />
+			    <strong>Port Cunnington Lodge</strong> - Located in the heart of Lake of Bays, Port Cunnington Lodge has been welcoming guests since 1890. We offer premier accommodations with fine country dining and traditional Muskoka hospitality. <a href="http://www.portcunnington.com/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.portcunnington.com']);">[view]</a>
+		    </div>
+
+		   <!--  <div class='resort-listing'>
+			    <img src="images/resorts/ppl-web.jpg" alt="Beauview" />
+			    <strong>Pow Wow Point Lodge</strong> - Beautiful resort lodge located on Penninsula Lake. Relax, friendly and carefree! Pow-Wow offers 1,500 feet of spectacular waterfront views. <a href="http://powwowpointlodge.com/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.powwowpointlodge.com']);">[view]</a>
+		  </div>
+		     -->
+		    <div class='resort-listing'>
+			    <img src="images/resorts/thi-web.jpg" alt="Tally-Ho" />
+			    <strong>Tally-Ho Inn</strong> - Enjoy the casual country living Tally-Ho Inn offers in one of our pet friendly lakeside rooms, suites or cottages with wood burning fireplace. Includes home cooked breakfasts and dinners with your stay. <a href="http://tallyhoinn.ca/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.tallyhoinn.ca']);">[view]</a>
+		    </div>
+		    
+		    <div class='resort-listing'>
+			    <img src="images/resorts/pcr-web.jpg" alt="Pines" />
+			    <strong>The Pines Cottage Resort</strong> - With a large beach, on a quiet corner of Oxtongue Lake. The Pines Cottage Resort has been a favourite destination for generations of guests. The Pines Cottage Resort has been updated throughout. <a href="http://www.algonquinparkaccommodations.com/" target="_blank" class="links3" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Resorts', 'www.algonquinparkaccommodations.com']);">[view]</a>
+			</div>
+
+      <!-- END MAIN CONTENT ===================================================== -->
+    </div>
+
+    <!--#include file="footer.htm"-->
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--#include file="head.htm"-->
+</head>
+<body>
+  <div class='wrapper'>
+    <header>
+      <!--#include file="nav1.htm"-->
+      <!--#include file="slideshow.htm"-->
+      <!--#include file="nav2.htm"-->
+    </header>
+    <div class='title'><img src="images/titles/title-comforts.jpg"><a href="resorts.shtml"><img src="images/resort-view-button.png" width="200" height="30" alt="view resorts" border="0" align="right" /></a></div>
+    <div class='main'>
+      <!-- MAIN CONTENT ===================================================== -->
+
+
+<p><span class="titles">Winter adventure with the comforts of home: you CAN have it all in North Muskoka</span></p>
+
+<img src="images/tubing.jpg" class='imgC'>
+
+<div class='share-bar'>
+<span class='st_facebook_large' st_url="http://north-muskoka.com/comforts-of-home.shtml" displayText='Facebook'></span>
+      <span class='st_twitter_large' st_url="http://north-muskoka.com/comforts-of-home.shtml" displayText='Tweet'></span>
+      <span class='st_pinterest_large' st_url="http://north-muskoka.com/comforts-of-home.shtml" displayText='Pinterest'></span>
+      <span class='st_googleplus_large' st_url="http://north-muskoka.com/comforts-of-home.shtml" displayText='Google +'></span>
+      <span class='st_email_large' st_url="http://north-muskoka.com/comforts-of-home.shtml" displayText='Email'></span>
+      <script type="text/javascript">var switchTo5x=true;</script>
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher: "61d37e7d-643a-4c69-913e-1ba477b118c8", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+      </div>
+
+<p><Strong>Imagine this:</strong> after a day spent playing in the snow – skating through the woods, cross-country skiing on a lake or gliding through the forest behind a team of dogs – you return, cheeks rosy and body rejuvenated, to ‘home’ just minutes away to relax next to a crackling fire with a mug of hot chocolate or a glass of wine in hand. </p>
+
+<p>In North Muskoka, an abundance of winter activities are just minutes away from welcoming <a href="places.shtml">North Muskoka accommodations</a>. Many of these family-friendly cottage resorts offer activities like cross-country skiing, snowshoeing and ice fishing right outside your cottage door. They often have equipment available, too, so that you don’t even have to bring it along.</p>
+
+<p>If you want to go farther, but not too much farther, spend the day at <a href="http://www.ontarioparks.com/park/arrowhead">Arrowhead Provincial Park</a>, just north of Huntsville. With more than 33 kilometres of groomed cross-country ski trails for classic skiing or skate skiing, snowshoeing trails, a tubing hill and a skating trail that winds through the woods, there’s something for everyone at Arrowhead. They even rent Nordic skis, snowshoes and skates if you don’t have your own. Day use and ski trail fees apply to access the park.</p>
+
+<p>Or head to world-renowned <a href="http://www.algonquinpark.on.ca/">Algonquin Provincial Park</a> for access to more than 95 kilometres of groomed and wilderness <a href="http://www.algonquinpark.on.ca/visit/recreational_activites/skiing-in-algonquin-park.php">cross-country ski trails</a>. The park’s <a href="http://www.algonquinpark.on.ca/visit/recreational_activites/interpretive-walking-trails-in-algonquin-park.php">hiking trails</a> are open year-round and are great for snowshoeing through hushed winter forests. Day use fees apply here, too.</p>
+
+<p>You can also snowshoe at one of North Muskoka’s hidden gems, <a href="http://www.limberlostlodges.com/NewTrails.html">Limberlost Forest Reserve</a>. Their wilderness hiking trails make for an unbeatable outdoor experience where you’ll feel like there can’t possibly be another human within a 100-kilometre radius. Bring your own snowshoes or rent them from local retailer <a href="http://algonquinoutfitters.com/rentals/winter-gear/">Algonquin Outfitters</a>.</p>
+
+<p>Like your winter adventure faster? Take to the slopes at <a href="http://skihiddenvalley.ca/">Hidden Valley Highlands Ski Area</a> for downhill skiing or snowboarding. They rent all the necessary equipment and lessons with qualified, friendly ski school instructors will have beginners up and sliding in no time.</p>
+
+<img src="images/learning_to_ski.jpg" class='imgL'>
+
+<p>You can also fulfill your need for speed with snowmobile tours on the local trails that criss-cross the region. North Muskoka resorts welcome experienced snowmobilers or you can take guided snowmobile tours with <a href="http://www.backcountrytours.ca/">Back Country Tours</a>.</p>
+
+<p>For a unique experience to write (or email!) home about, try dogsledding in Algonquin Park with <a href="http://www.snowforestadventures.ca/">Snow Forest Adventures</a> or in Huntsville at <a href="http://www.northridgeranch.ca/">North Ridge Ranch</a>. Or head out on local trails with a fatbike – it’s like a mountain bike with 4-inch wide tires that makes it easy to power through the snow. You can rent them at <a href="http://algonquinoutfitters.com/rentals/winter-gear/">Algonquin Outfitters in Huntsville</a>.</p>
+
+<p>Remember to ask your hosts about other local activities and events, too – they’re wonderfully knowledgeable resources for what’s happening in North Muskoka.</p>
+
+<p>Then, when you’ve had your fill of memory-making fun, return to all the comforts of home at a local North Muskoka cottage resort or inn. Some have dining rooms where you can enjoy delicious, homemade fare. Others have housekeeping cottages where you can create tasty meals on your own schedule, exactly the way you like them.</p>
+
+<p>Where else but North Muskoka can you experience the best of winter fun and still enjoy all the comforts of home?</p>
+
+<img src="images/ice_fishing.jpg" class='imgC'>
+
+      <!--#include file="bottom_banner_ads.htm"-->
+
+      <!-- END MAIN CONTENT ===================================================== -->
+    </div>
+    <!--#include file="footer.htm"-->
+    <script type="text/javascript" src='banner_resorts.js'></script>
+</body>
+</html>
